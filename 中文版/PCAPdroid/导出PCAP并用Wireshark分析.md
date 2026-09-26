@@ -1,0 +1,86 @@
+# PCAPdroid 导出 PCAP 并用 Wireshark 分析
+
+> 本篇讲五种导出模式各适合什么场景、文件存到哪、怎么在电脑上实时看，以及抓出来的包有哪些天然偏差。
+> **相关文档**：[抓包结果怎么看.md](抓包结果怎么看.md) · [HTTPS加密流量怎么解密.md](HTTPS加密流量怎么解密.md) · [常见问题与排查.md](常见问题与排查.md)
+
+---
+
+> [!IMPORTANT]
+> **PCAPdroid 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/20a1904668ba](https://pan.quark.cn/s/20a1904668ba)
+
+---
+
+## 一、默认是不导出的
+
+PCAPdroid 开始抓包后，**默认什么都不写盘**——数据只在应用内分析，停了就没了。想拿到文件或流给电脑，先在 Status 标签（或设置里）选 **dump mode（导出模式）**。五种模式对照：
+
+| 模式 | 拿到什么 | 适合 |
+| --- | --- | --- |
+| No Dump | 什么都不导出（默认） | 只在手机上看连接列表 |
+| PCAP File | 存成本机 `.pcap` 文件 | 事后分析、存档 |
+| HTTP Server | 局域网内浏览器直接下载 | 不想插线、临时拉一份 |
+| TCP Exporter | 实时推给电脑（pcap-over-ip） | 实时看、不丢包（1.8.6 起） |
+| UDP Exporter | 实时推给电脑（UDP 流） | 老方案，可能丢包，优先用 TCP |
+
+## 二、存成 PCAP 文件
+
+1. Status 标签把导出模式选成 **PCAP file**；
+2. 点开始时会弹系统的**文件名/路径选择框**，自己挑位置；
+3. 抓完点停止，弹出对话框可选**分享 / 删除 / 保留**。
+
+文件默认落在 `Downloads/PCAPdroid` 目录下。停止后主界面底部的 **Last capture** 会显示这次抓包的大小、时间、时长与涉及的应用，点 **View all** 进 **Capture list**：里面列出设备上存过的所有抓包，可以看总占用、批量改名与删除，**点一条就能重新载入 PCAPdroid 里继续分析**——解密过的流量会带一个绿色开锁图标。
+
+个别安卓电视设备没有文件选择框，会自动取名存进 `Downloads`。
+
+## 三、HTTP 服务器模式（不插线下载）
+
+选 **HTTP Server** 后开始抓包，Status 页会显示一个局域网地址（形如 `http://192.168.x.x:8080`）。在**同一局域网的电脑**上用浏览器打开它就开始下载：
+
+- **进度条一直 0% 是正常的**——流式传输，浏览器不知道总大小；
+- **必须回到手机上点停止，下载才会真正结束**，此时文件才完整；
+- 下载开始前的那部分流量不会包含在文件里（浏览器是中途接上的）。
+
+两点要留意：**同一局域网的任何人都能下到你这份流量**，别在公共 Wi-Fi 上开；想在 Linux 上直接实时进 Wireshark，可以这样接：
+
+```bash
+curl -NLs http://192.168.1.10:8080 | wireshark -k -i -
+```
+
+（把地址换成你手机上显示的那个。）
+
+## 四、实时推流给电脑（TCP / UDP）
+
+**TCP Exporter**（1.8.6 起，官方叫 pcap-over-ip）是实时分析的推荐方式——TCP 传输不会丢包、不会乱序。在设置里填好电脑的 IP 与端口，选这个模式开始抓包，电脑端接住这条流即可。官方给的最简例子（Linux，端口换成你填的那个）：
+
+```bash
+nc -lvp 1234 | wireshark -k -i -
+```
+
+**UDP Exporter** 是老的实时方案，把 PCAP 记录封在 UDP 里发给收集器。UDP 不保证送达，**Wi-Fi 上尤其容易丢包乱序**，抓出来可能是残缺的——新用就别选它了。真要用，两端的接法是：
+
+- Linux：下载官方仓库 `tools/udp_receiver.py`，收包后解封装再吐给管道，例如 `udp_receiver.py -p 1234 | wireshark -k -i -`；写文件就是 `udp_receiver.py -p 1234 | tcpdump -w dump.pcap -r -`；
+- Windows：Wireshark 安装时勾上 **udpdump** 可选组件，把官方 `tools/pcapdroid.lua` 与 `tools/pcapdroid_udpdump.lua` 拷进插件目录（通常在 `%APPDATA%\Wireshark\plugins`），重启 Wireshark 确认两个插件已加载，然后用 **UDP listener remote capture** 接口开始抓；手机端把收集器端口填成 `5555`。
+
+用 UDP 模式时注意：通过 udpdump 接收时**不支持解密 Pcapng**，要看解密内容改用 PCAP 文件模式。
+
+## 五、在 Wireshark 里看解密内容
+
+如果抓包时开了 TLS 解密（见[HTTPS加密流量怎么解密.md](HTTPS加密流量怎么解密.md)），文件拿到电脑上还得给 Wireshark 一把钥匙：
+
+- **开了付费的 Pcapng 格式**：解密密钥直接嵌在 `.pcapng` 里，Wireshark 打开就能看明文，什么都不用配；
+- **只有普通 `.pcap`**：停止抓包时会在旁边生成一个同名 `.keylog` 文件（SSLKEYLOGFILE）。先在 Wireshark 里 **Edit → Preferences → Protocols → TLS** 填上这个 keylog 的路径，**再打开 pcap 文件**——顺序反了看不到解密内容。
+
+想让 Wireshark 显示「这个包是哪个应用发的」，打开设置里的 **PCAPdroid extensions**（旧版本叫 PCAPdroid trailer），它会把应用 UID 与包名写进每个包的附加数据里；再把官方仓库的 `tools/pcapdroid.lua` 放进 Wireshark 插件目录，就能把这些字段当列显示、当条件过滤。
+
+## 六、抓出来的包有哪些天然偏差（看结果前先知道）
+
+不 root 的抓法是把流量引进本地 VPN 处理的，所以**包的内容（L7 载荷）是原样的，但包头层面会被改写**：
+
+- 从互联网进来的包带的是**重新生成的 IP/TCP/UDP 头**，只有目标 IP 和端口是真实的；
+- 手机发出的连接经它转发后，部分 IP/TCP 特性被禁用或改变；
+- 因为按连接转发，**进来的包的大小与原始大小对不上**；
+- **非 root 模式只抓出站连接**——别的设备连进你手机（比如从电脑 ping 手机）不会出现在列表里。
+
+所以：**看「谁连了哪里、传了什么内容」没问题；要分析包长分布、时序、TCP 标志这类三层四层细节，得用 root 抓包**（设置里检测到 root 才会出现该选项）。另外即使是 root 模式，抓到的包也可能比接口 MTU 大——那是网卡/内核的聚合机制导致的，tcpdump 也一样，不是 PCAPdroid 特有的问题。
+
+root 模式的限制也一并知道：**root 抓包时 SOCKS5 不可用，因此 TLS 解密也不可用**；以太网层数据不显示；走 DoH 的 DNS 请求看不到域名（要域名就得先屏蔽 DoH）。
