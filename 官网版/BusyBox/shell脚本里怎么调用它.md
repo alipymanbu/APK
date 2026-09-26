@@ -62,7 +62,27 @@ busybox grep --help
 
 按它支持的写法改脚本，别按电脑上 GNU 工具的习惯硬套。
 
-## 四、定时任务这类后台用法
+## 四、让整个 shell 里的命令都走它：standalone 模式
+
+上面的 `$BB` 前缀要一条条加，还管不到脚本里直接写的 `ls`、`rm`。有一种开关能让 shell 里**每条命令都强制走这份二进制**，不管 PATH 里排的是谁 —— 这正是 Magisk 跑自己脚本时的做法（官方文档写明：Magisk 的所有启动脚本与模块安装脚本都在这种模式下执行）。两种打开方式：
+
+```sh
+# 方式一：环境变量（推荐，会传给脚本里新起的子 shell）
+ASH_STANDALONE=1 /data/adb/magisk/busybox sh /sdcard/job.sh
+
+# 方式二：命令行开关
+/data/adb/magisk/busybox sh -o standalone /sdcard/job.sh
+```
+
+上面用的是 Magisk 内置那份的路径；**你装的这份支不支持这个开关，先验一下再用**：
+
+```sh
+busybox sh --help
+```
+
+输出里有 `standalone` 相关选项才可用。用上之后，脚本里的 `ls` 调的就是这份的 `ls`，不再受 PATH 影响；想让某一条命令绕开它，就写绝对路径（如 `/system/bin/ls`）。
+
+## 五、定时任务这类后台用法
 
 它自带 `crond`、`crontab` 这组命令，但**能不能真跑起来取决于你给不给 root 和后台权限**，不同 root 方案差别不小。想折腾定时任务，先敲：
 
