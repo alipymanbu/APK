@@ -16,7 +16,7 @@ RustDesk 默认用官方公共服务器撮合连接，轻度使用够用。出�
 
 - 公共服务器连接慢、频繁提示连接错误；
 - 你希望中继流量不过第三方机器；
-- 所在网络封锁了默认端口（有用户反馈家用宽带封过 21115~21118 段端口，对策见第五节）。
+- 所在网络封锁了默认端口（有用户反馈家用宽带封过 21115~21118 段端口，对策见第六节）。
 
 自建只需要一台有公网 IP 的服务器，服务端是开源的（`github.com/rustdesk/rustdesk-server`），免费。
 
@@ -62,7 +62,17 @@ Windows 也可以当服务端：官方有 `RustDeskServer.Setup.exe` 安装包�
 
 两端都指向同一台自建服务器后，连接方式与原来完全一样：输 ID、输密码。日常操作见[手机远程控制电脑教程.md](手机远程控制电脑教程.md)。
 
-## 五、端口被封的替代方案
+## 五、让服务端一直活着
+
+服务器重启或容器崩了没自动拉起，所有客户端会突然集体连不上。三种保持方法按你的部署方式选：
+
+- **Docker（docker run 起的）**：给两个容器加自启——`docker update --restart=always hbbs hbbr`；
+- **Docker Compose**：在 compose 文件里给每个服务写 `restart: unless-stopped`，之后 `docker compose up -d` 即可；
+- **裸二进制 + systemd**：写成 service 单元并 `systemctl enable hbbs hbbr`，让它们开机自启、崩溃后 5 秒自动重启。
+
+排障时先看日志：`docker logs hbbs` / `docker logs hbbr`，端口没放通、Key 不匹配这类问题日志里都有明确报错；重启容器用 `docker restart hbbs hbbr`。密钥文件丢失会让所有客户端的 Key 失效，备份好放密钥的那个目录（`id_ed25519` 与 `id_ed25519.pub`）。
+
+## 六、端口被封的替代方案
 
 运营商封了 21115~21118 时，有两条实测过的路：
 
