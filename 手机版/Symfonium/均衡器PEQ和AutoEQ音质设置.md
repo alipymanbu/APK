@@ -1,7 +1,7 @@
 # 均衡器 PEQ 和 AutoEQ 音质设置
 
 > 本篇讲在 Symfonium 里怎么调声音：图形均衡器、参数均衡器、AutoEQ 导入、ReplayGain 与输出路径选择。
-> **相关文档**：[下载与安装教程.md](下载与安装教程.md) · [常见问题与故障排查.md](常见问题与故障排查.md)
+> **相关文档**：[下载与安装教程.md](下载与安装教程.md) · [常见问题与故障排查.md](常见问题与故障排查.md) · [投屏到Sonos和Chromecast教程.md](投屏到Sonos和Chromecast教程.md)
 
 ---
 
