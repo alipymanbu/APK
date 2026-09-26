@@ -41,7 +41,15 @@ Google Play 搜 `moe.shizuku.privileged.api`，或到 GitHub 的 `RikkaApps/Shiz
 
 ### 方式三：通过连接电脑启动（Android 10 及以下）
 
-适合没 root 的老系统：手机连电脑，电脑装好 adb，执行 `adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/files/start.sh`（命令以 Shizuku 界面当时显示的为准）把服务拉起来。同样地，**重启后要重跑一次**。
+适合没 root 的老系统，按 Shizuku 官方手册的步骤走：
+
+1. 电脑下载 Google 的「SDK Platform Tools」（官方渠道提供 Windows / Linux / Mac 三个压缩包），解压到任意文件夹。
+2. Windows 下在该文件夹空白处按住 Shift + 右键，打开 PowerShell 窗口，输入 `adb` 回车——出现一串命令列表说明可用（PowerShell 里命令要写成 `.\adb`）。
+3. 手机连上电脑，打开开发者选项里的「USB 调试」，手机弹「允许 USB 调试」时勾选「始终允许」。
+4. 终端输入 `adb devices` 确认设备在列表里。
+5. 回到 Shizuku，它会给出当前版本的启动命令（形如 `adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/files/start.sh`），照抄执行即可。
+
+同样地，**重启后要重跑一次**。窗口别关，下次启动还要用。
 
 ## 四、授权给 TaskManager
 
