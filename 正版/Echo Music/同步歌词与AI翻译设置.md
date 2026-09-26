@@ -31,6 +31,8 @@ Echo Music 的歌词是**跟着唱到哪滚到哪**的同步歌词，还支持�
 
 配置路径：**设置 → AI Settings（AI 设置）**。
 
+关于翻译用的是哪一套，两处官方资料的说法不同，你按自己这版界面对：README 把它描述为「内置 Google 翻译集成」，开发文档则写可选 Provider —— 界面上看到现成的翻译开关就直接开，看到 Provider/API Key 栏才需要按下表配。
+
 | 配置项 | 怎么填 |
 | --- | --- |
 | Provider（提供方） | 默认是 OpenRouter，也可换成 ChatGPT、Gemini 或 Custom（自定义） |
