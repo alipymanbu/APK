@@ -33,8 +33,10 @@
 电脑装好 platform-tools，手机开 USB 调试并连电脑，在 `adb` 目录执行：
 
 ```bash
-adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/files/start.sh
+adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/start.sh
 ```
+
+（这是 Shizuku v11.2.0+ 的指令；更老的版本路径里多一段 `files/`，以 Shizuku 应用内"通过连接电脑启动"一节显示的指令为准。）
 
 **方式 C：root 启动**
 已 root 的手机在 Shizuku 里直接点"使用 root 启动"，且重启后自动恢复。
@@ -57,4 +59,21 @@ adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/files/start.sh
 | 清理能力 | 接近 root | 接近 root | 最深 |
 | 配对/启动复杂度 | 首次略繁琐 | 低 | 低 |
 
-拿不准就先用无线调试方式试一周，够用就不用碰 root。授权生效与失败的排查见 [常见问题与故障排查.md](常见问题与故障排查.md)。
+拿不准就先用无线调试方式试一周，够用就不用碰 root。
+
+## 五、启动不了 / 频繁掉线的排查
+
+以下按 Shizuku 官方手册的问答整理（厂商 ROM 改动是主因，截至 2026-09 以官方手册为准）：
+
+| 症状 | 处理 |
+|---|---|
+| 一直显示"正在搜索配对服务" | 给 Shizuku 后台运行权限。搜索配对服务要访问本地网络，不少厂商在应用切到后台后立刻断它的网络 |
+| 点"输入配对码"后立刻失败 | 小米/POCO（MIUI/HyperOS）：设置 → 通知管理 → 通知显示设置，把通知样式切成"原生样式" |
+| 提示 adb 权限受限 | 小米：开发者选项里开"USB 调试（安全设置）"（注意它与"USB 调试"是两个开关）；OPPO/一加（ColorOS）：关掉"权限监控"；魅族（Flyme）：关掉"Flyme 支付保护" |
+| Shizuku 随机停止 | 后台保活 + 不要关"USB 调试/开发者选项"；USB 使用模式选"仅充电"（Android 9+ 叫"默认 USB 配置：不进行数据传输"）；Android 11+ 在开发者选项里启用"停用 adb 授权超时功能" |
+| 启动时一直起不来 | 把"无线调试"关掉再开一次，往往就好了 |
+| root 方式无法开机自启 | 同样是后台权限问题：允许 Shizuku 后台运行 |
+
+两个额外的坑：小米的"手机管家"扫描会**禁用开发者选项**（扫完 Shizuku 就废了，重新开一遍）；华为/荣耀要在开发者选项里额外开"仅充电模式下允许 ADB 调试"。
+
+Shizuku 起来之后，SD Maid SE 侧的授权与验证见上一节；授权生效了但清理结果没变化的，回 [常见问题与故障排查.md](常见问题与故障排查.md) 对症状。
