@@ -22,8 +22,11 @@
 | DeepSeek 官方应用 | 深度求索官方 AI 助手，内置「DeepThink」深度思考模式 | iOS / 安卓 / 网页 | 杭州深度求索 |
 | Deep Think - AI Seek Chatbot | 另一款聚合模型的聊天应用 | iOS | MetaFlowCore LTD |
 | DeepThink – AI Chat Assistant | Mac 上的 AI 聊天应用 | macOS | Usama Daood |
+| Chat AI - AI ChatBot & Agent | 同一开发者旗下的另一款聚合聊天应用，包名 `com.appzone.chatbotai`（官网标注 50 万+ 下载） | 安卓 | Appzone Ai |
 
 最容易混的是第 2 行：DeepSeek 官方应用里那个「DeepThink」是**它内部的深度思考模式开关**，不是一个独立应用；你搜 "deepthink" 跳出来的很多结果其实在讲它。第 3、4 行是名字撞车的别家产品，开发者完全不同，平台也不同。
+
+第 5 行是更隐蔽的一个坑：开发者 Appzone Ai 自己就有两款功能相近的聚合聊天应用（官网是 [appzoneai.com](https://appzoneai.com)），两款都叫 "AI Chatbot" 系的名字、界面也长得像。区分只认包名：`com.appzone.aichat` 是本文这份，`com.appzone.chatbotai` 是它家的 Chat AI。顺带一提，截至本文更新时，开发者官网的产品页只列了 Chat AI 与 Notes AI 两款，本文写的这款并未出现在列表里——所以别拿官网产品页当索引，认包名最稳。
 
 ## 三、怎么确认手机里这个是本文写的 deepthink
 
