@@ -10,17 +10,22 @@
 
 ---
 
-## 一、手机 ↔ Windows 电脑：装 PC 版 Quick Share
+## 一、手机 ↔ Windows 电脑：先分清装哪个应用
 
-1. 在电脑上打开 Microsoft Store，搜 **Quick Share**（三星发布）并安装。
-2. 电脑端打开 Quick Share，把可见范围设好。
-3. 手机端照常分享：选内容 → 分享 → Quick Share，列表里出现你的电脑，点它，电脑端弹窗接受。
+PC 端有两个官方应用，别装错：
 
-前提条件（以官方页面为准）：
+| 你的电脑 | 用哪个 | 从哪拿 |
+| --- | --- | --- |
+| Galaxy Book（2020 年起，含高通平台机型） | 三星版 Quick Share，多数已内置 | 缺了就在 Microsoft Store 搜「Quick Share」（三星发布） |
+| 其他品牌的 Windows 电脑 | Google 版 Quick Share for Windows | 从 [Google 官方页面](https://www.android.com/better-together/quick-share-app/) 下载安装 |
 
-- 2020 年及以后发布的 Galaxy Book 内置该功能，无需另装。
-- 其他品牌的 Windows 电脑装微软商店版即可；商店版已支持更广泛的 PC 机型。
-- 两端都开蓝牙与 Wi-Fi。
+三星版对系统与驱动有明确要求（微软商店页口径，以页面为准）：Windows 10 2004（内部版本 19041）或更高，蓝牙驱动 Intel 22.50.02 及以上、Wi-Fi 驱动 Intel 22.50.07 及以上。Google 版按官方页面的要求为 64 位 Windows 10 及以上。
+
+装好后的动作两边一样：
+
+1. 电脑端打开 Quick Share，把可见范围设好。
+2. 手机端照常分享：选内容 → 分享 → Quick Share，列表里出现你的电脑，点它，电脑端弹窗接受。
+3. 电脑上收到的文件默认放在「下载」文件夹的 Quick Share 子文件夹里，想在别处收就到应用设置里改下载位置。
 
 ## 二、手机 ↔ iPhone / iPad / Mac：先核对版本门槛
 
@@ -32,7 +37,7 @@
 | Google Play services | 26.11.xx 或更高 |
 | 机型 | 2026 年 3 月起先支持 Galaxy S26 系列，后续扩展到部分旗舰 |
 
-对照一下：本篇对应的网盘安装包版本是 **13.6.10.38**（2026 年 9 月采集），低于 13.8.51.27 这个门槛 —— 用这一版传不了 Apple 设备。想走 AirDrop 互通，先把 Quick Share 升到更高版本、且机型在支持范围内，以官方页面当时显示为准。
+对照一下：本篇对应的网盘安装包版本是 **13.6.10.38**（2026 年 9 月收录），低于 13.8.51.27 这个门槛 —— 用这一版传不了 Apple 设备。想走 AirDrop 互通，先把 Quick Share 升到更高版本、且机型在支持范围内，以官方页面当时显示为准。
 
 ## 三、跟电脑传大文件的建议
 
