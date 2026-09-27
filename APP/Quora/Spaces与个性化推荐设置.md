@@ -49,6 +49,10 @@ feed 的内容由你的行为持续塑造，可操作的调整手段：
 Quora 默认发大量摘要邮件（digest），不处理会一直塞满邮箱。处理入口有两处：
 
 - **邮件内退订**：任何一封 Quora 邮件拉到最底部，点 **Unsubscribe** 链接，按页面勾选要停的类型；
-- **集中设置**：网页版打开 [www.quora.com/settings/notifications](https://www.quora.com/settings/notifications)，邮件类通知在这里逐项开关。
+- **集中设置**：网页版打开 [www.quora.com/settings/notifications](https://www.quora.com/settings/notifications)，邮件类通知在这里逐项开关，还能把即时邮件改成每日或每周摘要，邮件量立刻小一截。
 
-应用内的推送通知是另一套，在手机系统的应用通知设置里关，和应用内 Settings → Notifications 都能管。feed 本身的整理逻辑见上文，回答、投票这些操作细节在 [提问与回答操作指南.md](提问与回答操作指南.md)。
+应用内的推送通知是另一套：应用内 Settings → Notifications 按类型关；系统层面 Android 走 设置 → 应用 → Quora → 通知，iOS 走 设置 → 通知 → Quora，两边任选其一。
+
+单个话题吵：进该话题页，右上角菜单（…）里可以关掉它的通知或直接取关；单个 Space 不想要了，进 Space 取关即可。订阅了 Quora+ 的话，取消方法单独写在 [会员订阅与取消方法.md](会员订阅与取消方法.md)。
+
+feed 本身的整理逻辑见上文，回答、投票这些操作细节在 [提问与回答操作指南.md](提问与回答操作指南.md)。
