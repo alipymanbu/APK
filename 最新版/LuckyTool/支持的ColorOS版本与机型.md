@@ -50,7 +50,7 @@
 
 | 来源 | 版本 | 说明 |
 | --- | --- | --- |
-| 本页头部网盘里的安装包 | 1.2.8 | 采集于 2026-09-23 的那一版，包名 `com.luckyzyx.luckytool`、大小 8.33M |
+| 本页头部网盘里的安装包 | 1.2.8 | 网盘 2026-09-23 存入的那一版，包名 `com.luckyzyx.luckytool`、大小 8.33M |
 | 官方 GitHub release | 以页面当时显示为准 | 截至 2026 年 9 月检索时最新为 1.3.4，晚于网盘那版属正常 |
 | 官方更新日志页 | 记录 1.0.0 起全部版本 | 地址 [https://luckyzyx.gitlab.io/LuckyTool_Doc/changelog.html](https://luckyzyx.gitlab.io/LuckyTool_Doc/changelog.html) |
 
