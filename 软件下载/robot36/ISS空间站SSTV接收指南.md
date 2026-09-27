@@ -23,12 +23,15 @@
 
 PD120 与 Robot 36 都在 Robot36 支持的模式清单里，同一套流程两种都能收。
 
+ISS 只是业余无线电 SSTV 活动的一角——短波上每天都有爱好者互传图片，频率与收听时机见 [短波SSTV频率与收听时机.md](短波SSTV频率与收听时机.md)。
+
 ## 二、你要准备的设备
 
 - **一台能收 VHF/UHF FM 的接收机**：入门最常见的是双段手持电台（如 UV-5R 一类），能收 145.800 MHz 即可；SDR 接收机配电脑也行；
 - **天线**：手台原装天线在过境条件好时也能收到，拉杆天线或指向性天线（如八木）成功率更高；
 - **装好 Robot36 的手机**：安装见 [下载与安装教程.md](下载与安装教程.md)；
-- **过境预报工具**：ISS Detector、Heavens-Above（[heavens-above.com](https://www.heavens-above.com/)）等，用来查空间站什么时候从你头顶过。
+- **过境预报工具**：ISS Detector、Heavens-Above（[heavens-above.com](https://www.heavens-above.com/)）等，用来查空间站什么时候从你头顶过；
+- **什么设备都没有时**：WebSDR、KiwiSDR 远程接收站也能听 145.800，但远程站得和你在同一时刻能看到 ISS 才行；远程收听的做法见 [短波SSTV频率与收听时机.md](短波SSTV频率与收听时机.md)。
 
 ## 三、从守候到出图
 
