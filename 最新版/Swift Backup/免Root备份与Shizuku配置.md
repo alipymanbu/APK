@@ -53,3 +53,5 @@ Root 设备首次授权走 Magisk 请求，选 Grant 即可。相比 Shizuku，R
 | 无 Root + Shizuku、Android 11+ | 外部数据可备；应用可批量还原；私有数据仍不可 |
 | Root | 全部能力，含私有数据与特殊应用数据 |
 | 无 Root + Shizuku（5.1.0、Android 11+） | WiFi 配置也可备份还原 |
+
+另一个已知限制：Android 10 上 WiFi 备份无法批量还原，官方 issues 页对此有专门说明；个案清单见 [读不到备份与还原失败排查.md](读不到备份与还原失败排查.md)。
