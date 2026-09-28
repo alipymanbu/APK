@@ -42,8 +42,8 @@ OpenUtau Mobile 不是另起炉灶的应用，它直接基于 OpenUtau Core 构�
 
 桌面版 OpenUtau 从 [www.openutau.com](https://www.openutau.com/) 获取，支持 Windows、macOS、Linux。电脑版的安装与声库导入这里不展开，它的官方 Getting Started 文档在官网就有。
 
-## 五、旧格式的工程文件
+## 五、除了 ustx 还支持哪些格式
 
-除了 `.ustx`，有第三方资料称 OpenUtau Mobile 还能打开 `.ust`、`.vsqx` 这类老格式或跨软件格式，官方仓库只明确承诺了 `.ustx` 的完整支持 —— 手上有这类旧文件就直接用 `Open` 试试，打不开的先用桌面版 OpenUtau 转存成 `.ustx` 再传到手机，这条路是稳的。
+工程格式不止 `.ustx`：官方 1.0.7 版本的更新说明列明支持 ustx、ust、vsqx、mid、midi、musicxml、ufdata 等格式，1.1.3 起内核支持 ustx 0.7。手上有旧工程或 MIDI、MusicXML 文件，直接用 `Open` 打开试试即可；个别老文件打不开时，先用桌面版 OpenUtau 转存成 `.ustx` 再传到手机，这条路是稳的。
 
 工程在手机端打不开或打开后异常时，先排查是不是文件传输不完整，再对照[常见问题与闪退排查.md](常见问题与闪退排查.md)处理。
