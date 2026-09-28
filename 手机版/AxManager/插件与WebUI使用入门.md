@@ -20,9 +20,18 @@ AxManager 的插件（官方叫 Unrooted Module）沿用了 Root 模块（Magisk
 
 ## 二、装一个插件
 
-1. 拿到插件安装包（zip 格式，结构与 Root 模块一致）。
-2. 在 AxManager 里打开插件安装器，选择这个 zip 安装。
-3. 装完在插件列表里启用或停用。
+插件目前**没有官方集中分发渠道**：官方文档只定义了格式，没有插件市场。常见来源是 GitHub（搜 `AxManager plugin` / `Axeron plugin`）和玩机社区的分享帖。
+
+拿到 zip 后先过三道判据再装：
+
+1. 包里有 `module.prop`（没有就不是插件）。
+2. `module.prop` 里的 `axeronPlugin` 数值不超过你手机上的服务版本（见第三节）。
+3. 来源可信：优先选能对上源码仓库、有更新记录的作品，社区随手转发的 zip 谨慎对待。
+
+安装操作：
+
+1. 在 AxManager 里打开插件安装器，选择这个 zip 安装。
+2. 装完在插件列表里启用或停用。
 
 ## 三、认得 module.prop（挑插件时用得上）
 
