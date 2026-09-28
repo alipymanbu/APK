@@ -12,7 +12,7 @@
 
 ## 一、Gadgetbridge 和密钥的关系
 
-Gadgetbridge 是一个开源的手环/手表管理应用，不依赖小米官方服务器运行，发布页在 F-Droid：[f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/)。它本身不知道你的密钥，而手环 4 及之后的机型配对必须提供认证密钥 —— 这就是先跑一遍 Suiteki 的原因。手环 3 及更早的机型不需要密钥，搜到直接点就能配。
+Gadgetbridge 是一个开源的手环/手表管理应用，不依赖小米官方服务器运行，发布页在 F-Droid：[f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/)。它本身不知道你的密钥，而手环 4 及之后的机型配对必须提供认证密钥 —— 这就是先跑一遍 Suiteki 的原因。手环 3 及更早的机型不需要密钥，搜到直接点就能配。各代手环绑定哪个官方应用、密钥该从哪个入口取，见 [手环型号与应用入口对照.md](手环型号与应用入口对照.md)。
 
 ## 二、把密钥填进去
 
