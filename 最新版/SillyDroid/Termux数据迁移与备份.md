@@ -34,10 +34,10 @@ curl -fsSL https://raw.githubusercontent.com/jialmaster/SillyDroid/master/script
 
 已经在 SillyDroid 里用的，走 **宿主设置 → 数据迁移**：
 
-- **导出**：得到一份完整 ZIP，存到手机存储或云盘都行；
-- **导入**：新手机装好 App、走完首次解压后，选这份 ZIP 导入。
+- **导出**：数据 Tab → 「导出数据压缩包」，得到一份完整 ZIP（含 config、data、plugins、extensions 四个目录），比酒馆官方的用户备份范围更大 —— 官方格式只含用户数据；
+- **导入**：三种 ZIP 都认得 —— 宿主完整备份、酒馆官方用户备份（`default-user-…` 这类文件名）、Termux / Linux 导出的数据包；导入前会弹确认提示，不会直接覆盖。
 
-重装 App 或清除数据之前先导一份 —— 卡、对话、扩展配置都在里面，导了就不丢。
+注意：宿主设置里的「清空数据」会删掉这四个目录并重置酒馆，**不可逆** —— 动它之前先导出。
 
 ## 四、搬完之后核对三样
 
