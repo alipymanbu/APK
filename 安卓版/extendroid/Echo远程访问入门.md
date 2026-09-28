@@ -42,7 +42,11 @@ Echo 的连接消耗一种叫 **Boosters** 的额度。按官方计费页（[ext
 - 早期测试阶段，按要求提交有效问题反馈可获最多 500 Boosters 奖励；
 - 购买入口与套餐也设在计费页。
 
-## 四、安全提醒
+## 四、想在大屏上用：官方 Windows 客户端
+
+除了浏览器里的 Echo，官方还有一个独立的 Windows 客户端 **Extendroid-Win**，定位是把安卓设备「延伸」到电脑上使用。安装包在它的 GitHub 发布页：[github.com/legendsayantan/Extendroid-Win/releases](https://github.com/legendsayantan/Extendroid-Win/releases)，官网 [extendroid.pages.dev](https://extendroid.pages.dev) 的 Windows 按钮也指向这里。它与手机端 Extendroid 配套，功能边界与更新以发布页为准。
+
+## 五、安全提醒
 
 Echo 等于把设备的远程控制权挂到了网上，使用时建议：
 
