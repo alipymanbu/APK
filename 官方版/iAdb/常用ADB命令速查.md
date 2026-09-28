@@ -45,6 +45,8 @@ adb shell ls /sdcard/Android/data   # 列出受限目录内容（需已按授权
 adb install /sdcard/xxx.apk         # 把手机里存着的 APK 装到已连接的设备上
 ```
 
+`adb install` 只吃整包 APK：XAPK / APKM 这类分包格式直接装会报错。给电视盒子装应用是这条命令最典型的场景，完整步骤见 [连接电视盒子的调试方法.md](连接电视盒子的调试方法.md)。
+
 ## 五、截屏与录屏
 
 ```bash
@@ -54,7 +56,7 @@ adb shell screenrecord /sdcard/demo.mp4     # 录屏（默认最长 3 分钟）
 
 ## 六、出错先看这三处
 
-1. 命令回显 `not found` 或权限不足：设备可能已掉线，先重跑 `adb devices` 确认还在；shell 权限做不了 Root 级操作；
+1. 命令回显 `not found` 或权限不足：设备可能已掉线，先重跑 `adb devices` 确认还在；设备名后面显示 `unauthorized` 时，去被调试设备的屏幕上把「允许 USB 调试」弹窗确认掉再重连；shell 权限做不了 Root 级操作；
 2. 包名拼错：用 `adb shell pm list packages 关键词` 过滤确认后再执行；
 3. 无线连接断断续续：两台设备离路由器太远，或路由器开了 AP 隔离，排查思路见 [常见问题与连接失败排查.md](常见问题与连接失败排查.md)。
 
