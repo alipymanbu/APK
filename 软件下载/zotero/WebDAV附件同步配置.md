@@ -1,7 +1,7 @@
 # zotero 客户端配置 WebDAV 同步附件
 
 > 讲什么情况下需要给 Zotero 配 WebDAV、桌面端和应用里各怎么配、怎么验证双向同步真的通了。
-> **相关文档**：[账号登录与文献库同步.md](账号登录与文献库同步.md) · [文献库浏览与PDF标注.md](文献库浏览与PDF标注.md)
+> **相关文档**：[账号登录与文献库同步.md](账号登录与文献库同步.md) · [群组文献库与共享同步.md](群组文献库与共享同步.md) · [文献库浏览与PDF标注.md](文献库浏览与PDF标注.md)
 
 ---
 
@@ -16,6 +16,8 @@ Zotero 免费送的附件存储是 300 MB（官方 Zotero Storage）。附件主
 
 Zoo for Zotero 支持 WebDAV 访问附件（官方描述列明），而且是双向的：不仅能读取，对文件的修改还能传回去（作者在 Zotero 论坛的说明）。前提是两端用的是**同一个** WebDAV 账号，否则桌面端和手机端的附件会对不上。
 
+边界提前划清：这套规则只覆盖**个人库**。群组库是另一套（附件不能走 WebDAV、文件额度记在群主账号上），单独一篇讲：[群组文献库与共享同步.md](群组文献库与共享同步.md)。
+
 ## 二、桌面端先配好
 
 以下以 Zotero 7 桌面版的路径为例（菜单名称以你的版本为准）：
@@ -26,7 +28,11 @@ Zoo for Zotero 支持 WebDAV 访问附件（官方描述列明），而且是双
 4. 「文件同步」区勾选附件同步，下拉选 **WebDAV**。
 5. 填服务器 URL、用户名、密码，点「验证服务器」，通过即配好。
 
-以 Nextcloud 为例，URL 形如 `https://你的云地址/remote.php/webdav`；各家 WebDAV 地址格式不同，以你的服务商说明为准。Zotero 官方对 WebDAV 的口径是：任何正常的 WebDAV 服务器都可以用（官方同步文档 [www.zotero.org/support/sync](https://www.zotero.org/support/sync)）。
+以 Nextcloud 为例，URL 形如 `https://你的云地址/remote.php/webdav`；各家 WebDAV 地址格式不同，以你的服务商说明为准。三个官方口径的细节提前知道：
+
+- 桌面端填 WebDAV 地址时，末尾的 `/zotero` 路径由 Zotero 自动补上，不用自己带（官方设置文档注明）。
+- 拿不准选哪家 WebDAV 服务，官方维护了一份「已知可用」清单：[www.zotero.org/support/kb/webdav_services](https://www.zotero.org/support/kb/webdav_services)。
+- 附件的下载时机桌面端可以选「同步时下载」或「按需下载」（官方设置文档的口径）；选按需下载和手机端点开才拉的行为一致，本地不占空间。
 
 ## 三、应用里再配一次
 
