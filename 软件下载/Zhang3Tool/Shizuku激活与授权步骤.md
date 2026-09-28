@@ -47,10 +47,18 @@ Shizuku 官方手册给出三种启动方式，按你的设备情况选：
 
 ## 三、连接电脑方式（安卓 10 及以下）
 
-1. 电脑安装 adb（Android 官方 platform-tools 即可）；
-2. 手机开启 USB 调试后用数据线连电脑，首次连接手机上会弹出授权提示，勾选允许；
-3. 在电脑命令行执行 Shizuku 页面上给出的启动命令；
-4. Shizuku 显示运行中即可拔线。
+1. 电脑安装 adb（Android 官方 platform-tools 即可），解压后在目录里打开命令行窗口；
+2. 手机开启 USB 调试后用数据线连电脑，首次连接手机上会弹出「是否允许调试」，勾选「总是允许」后确认；
+3. 命令行里执行 `adb devices`，设备列表里出现你的手机序列号才说明连接正常（PowerShell 环境下命令要写成 `./adb`）；
+4. 执行启动命令（适用于 Shizuku v11.2.0+，也就是 Shizuku 页面上给你的那条）：
+
+```bash
+adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/start.sh
+```
+
+5. Shizuku 显示运行中即可拔线。
+
+命令敲完没反应时，先回头确认第 3 步的设备列表 —— 多数失败都出在授权弹窗被误点「拒绝」。
 
 ## 四、给 Zhang3Tool 授权
 
