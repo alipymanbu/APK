@@ -61,6 +61,8 @@ Tricky Store 修改证书链有两种工作模式，`target.txt` 里的后缀决
 
 把查到的包名按「一行一个」追加到 `target.txt` 末尾即可，条数没有官方限制。
 
+嫌手动维护麻烦的话，有社区维护的辅助模块（如 Tricky Addon）可以帮你更新常用包名列表——这是第三方项目，不是 Tricky Store 本体的一部分，用不用、信到什么程度自己判断，以[该项目页面](https://github.com/KOWX712/Tricky-Addon-Update-Target-List)为准。
+
 ## 五、改完怎么验证
 
 验证方式是把检测类应用加进 `target.txt` 再跑一遍，最直接的两个：
