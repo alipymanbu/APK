@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **BBPlayer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b2e85c6ff9fc](https://pan.quark.cn/s/b2e85c6ff9fc)
+> **BBPlayer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4b10bd0165c4](https://pan.quark.cn/s/4b10bd0165c4)
 
 ---
 

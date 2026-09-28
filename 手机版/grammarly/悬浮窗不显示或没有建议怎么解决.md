@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Grammarly 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/db21067aec4e](https://pan.quark.cn/s/db21067aec4e)
+> **Grammarly 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/90f859496a45](https://pan.quark.cn/s/90f859496a45)
 
 ---
 

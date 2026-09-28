@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **MindMaster 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/93210f16cd9e](https://pan.quark.cn/s/93210f16cd9e)
+> **MindMaster 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/24a3661e30ac](https://pan.quark.cn/s/24a3661e30ac)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Microsoft Office 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b9734a8e3c6d](https://pan.quark.cn/s/b9734a8e3c6d)
+> **Microsoft Office 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6e9eff5301ce](https://pan.quark.cn/s/6e9eff5301ce)
 
 ---
 

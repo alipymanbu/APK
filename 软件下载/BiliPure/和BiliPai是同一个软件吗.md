@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **BiliPure 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d8ef8be45399](https://pan.quark.cn/s/d8ef8be45399)
+> **BiliPure 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3d576a5bf1f9](https://pan.quark.cn/s/3d576a5bf1f9)
 
 ---
 
@@ -49,4 +49,4 @@ certutil -hashfile ".\BiliPure_v1.0.apk" MD5
 
 ## 五、从这里拿安装文件
 
-认准 [BiliPure 安装文件资源（夸克网盘）](https://pan.quark.cn/s/d8ef8be45399)，转存后下载 `BiliPure_v1.0.apk` 即可；下载与安装步骤见 [下载与安装教程.md](下载与安装教程.md)。
+认准 [BiliPure 安装文件资源（夸克网盘）](https://pan.quark.cn/s/3d576a5bf1f9)，转存后下载 `BiliPure_v1.0.apk` 即可；下载与安装步骤见 [下载与安装教程.md](下载与安装教程.md)。

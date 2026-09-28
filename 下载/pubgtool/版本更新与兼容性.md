@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **PUBG Tool 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/817eacfa91cd](https://pan.quark.cn/s/817eacfa91cd)
+> **PUBG Tool 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/702161f962a5](https://pan.quark.cn/s/702161f962a5)
 
 ---
 

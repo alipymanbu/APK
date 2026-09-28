@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **JanitorAI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e46d748e0a7a](https://pan.quark.cn/s/e46d748e0a7a)
+> **JanitorAI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5390dcc5e1f8](https://pan.quark.cn/s/5390dcc5e1f8)
 
 ---
 

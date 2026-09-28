@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Agora 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/75a512021583](https://pan.quark.cn/s/75a512021583)
+> **Agora 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8ad78c744c72](https://pan.quark.cn/s/8ad78c744c72)
 
 ---
 

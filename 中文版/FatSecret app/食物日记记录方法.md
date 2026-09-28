@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **FatSecret app 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ccbea4594d46](https://pan.quark.cn/s/ccbea4594d46)
+> **FatSecret app 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/fe15b17112fa](https://pan.quark.cn/s/fe15b17112fa)
 
 ---
 

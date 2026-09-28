@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **NFC Writer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3fac87b88ce4](https://pan.quark.cn/s/3fac87b88ce4)
+> **NFC Writer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/907d1f82e87b](https://pan.quark.cn/s/907d1f82e87b)
 
 ---
 

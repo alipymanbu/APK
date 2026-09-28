@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Chronos 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/21ab268dc0fc](https://pan.quark.cn/s/21ab268dc0fc)
+> **Chronos 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/30be5fadf7fe](https://pan.quark.cn/s/30be5fadf7fe)
 
 ---
 

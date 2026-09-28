@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **KingRoot 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/143928ebc505](https://pan.quark.cn/s/143928ebc505)
+> **KingRoot 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ee7f75a04fc5](https://pan.quark.cn/s/ee7f75a04fc5)
 
 ---
 

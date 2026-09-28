@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **LuaAppX 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f0f88af31489](https://pan.quark.cn/s/f0f88af31489)
+> **LuaAppX 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7d8f35800dab](https://pan.quark.cn/s/7d8f35800dab)
 
 ---
 

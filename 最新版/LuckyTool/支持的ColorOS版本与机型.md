@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **LuckyTool 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/510dce560016](https://pan.quark.cn/s/510dce560016)
+> **LuckyTool 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/97e101b24ffe](https://pan.quark.cn/s/97e101b24ffe)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **ApkClaw 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ed32ee691d47](https://pan.quark.cn/s/ed32ee691d47)
+> **ApkClaw 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/9355634e1b07](https://pan.quark.cn/s/9355634e1b07)
 
 ---
 

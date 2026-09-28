@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **MMRL 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/dc3f4853a00e](https://pan.quark.cn/s/dc3f4853a00e)
+> **MMRL 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e06fce36d68f](https://pan.quark.cn/s/e06fce36d68f)
 
 ---
 
@@ -39,4 +39,4 @@ MMRL 本身不做 root，也不碰你的 root 授权配置；把理解成「装�
 
 - 只是想找模块、批量装、看依赖和反功能标记 → 留在 MMRL 里操作（用法见[添加模块仓库与安装模块教程.md](添加模块仓库与安装模块教程.md)）。
 - 要动 root 本身（升级 Magisk、开 Zygisk）→ 回原管理器，那些 MMRL 没有。
-- 还没装 MMRL → 按[下载与安装教程.md](下载与安装教程.md)装一份；安装包也可以直接从 [MMRL 安装文件资源（夸克网盘）](https://pan.quark.cn/s/dc3f4853a00e) 获取。
+- 还没装 MMRL → 按[下载与安装教程.md](下载与安装教程.md)装一份；安装包也可以直接从 [MMRL 安装文件资源（夸克网盘）](https://pan.quark.cn/s/e06fce36d68f) 获取。

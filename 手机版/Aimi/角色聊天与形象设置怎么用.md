@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Aimi 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/22d2fa1a236d](https://pan.quark.cn/s/22d2fa1a236d)
+> **Aimi 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/df14ed85fa12](https://pan.quark.cn/s/df14ed85fa12)
 
 ---
 

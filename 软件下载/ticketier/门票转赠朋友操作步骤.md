@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **TICKETIER 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/20d44c58c004](https://pan.quark.cn/s/20d44c58c004)
+> **TICKETIER 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b08782cfb9ed](https://pan.quark.cn/s/b08782cfb9ed)
 
 ---
 

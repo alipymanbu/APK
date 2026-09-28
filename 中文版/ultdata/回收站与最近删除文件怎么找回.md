@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **UltData 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0243a554bf53](https://pan.quark.cn/s/0243a554bf53)
+> **UltData 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b4ef59a4d38d](https://pan.quark.cn/s/b4ef59a4d38d)
 
 ---
 

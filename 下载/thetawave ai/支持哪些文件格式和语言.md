@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **ThetaWave AI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f9ff7e59c0e3](https://pan.quark.cn/s/f9ff7e59c0e3)
+> **ThetaWave AI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/dfa7fdd55bfb](https://pan.quark.cn/s/dfa7fdd55bfb)
 
 ---
 

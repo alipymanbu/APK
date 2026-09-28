@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Lovie 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/841bb334a323](https://pan.quark.cn/s/841bb334a323)
+> **Lovie 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/429bde2a13b5](https://pan.quark.cn/s/429bde2a13b5)
 
 ---
 

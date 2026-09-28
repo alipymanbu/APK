@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Canta 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/845c59a0ec70](https://pan.quark.cn/s/845c59a0ec70)
+> **Canta 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a0053f2b067a](https://pan.quark.cn/s/a0053f2b067a)
 
 ---
 

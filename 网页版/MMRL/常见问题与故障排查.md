@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **MMRL 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/dc3f4853a00e](https://pan.quark.cn/s/dc3f4853a00e)
+> **MMRL 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e06fce36d68f](https://pan.quark.cn/s/e06fce36d68f)
 
 ---
 

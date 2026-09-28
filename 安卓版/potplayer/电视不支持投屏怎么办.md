@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **potplayer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2c15aa89ebd4](https://pan.quark.cn/s/2c15aa89ebd4)
+> **potplayer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8b566244e689](https://pan.quark.cn/s/8b566244e689)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **CosZ 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c0477ba6d425](https://pan.quark.cn/s/c0477ba6d425)
+> **CosZ 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0af8532088f4](https://pan.quark.cn/s/0af8532088f4)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **LocalSend 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/004924bf0e00](https://pan.quark.cn/s/004924bf0e00)
+> **LocalSend 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/9c2bc2923fcd](https://pan.quark.cn/s/9c2bc2923fcd)
 
 ---
 

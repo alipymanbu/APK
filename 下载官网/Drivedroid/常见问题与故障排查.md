@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **DriveDroid 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f2859a3113f6](https://pan.quark.cn/s/f2859a3113f6)
+> **DriveDroid 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/039dab806713](https://pan.quark.cn/s/039dab806713)
 
 ---
 

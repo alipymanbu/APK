@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **HyperIMU 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/866d6acb080b](https://pan.quark.cn/s/866d6acb080b)
+> **HyperIMU 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/abd8f0be37f0](https://pan.quark.cn/s/abd8f0be37f0)
 
 ---
 

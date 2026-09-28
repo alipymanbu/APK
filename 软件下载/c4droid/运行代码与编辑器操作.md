@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **C4droid 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3ea1c3bf1552](https://pan.quark.cn/s/3ea1c3bf1552)
+> **C4droid 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4ae6679aa524](https://pan.quark.cn/s/4ae6679aa524)
 
 ---
 

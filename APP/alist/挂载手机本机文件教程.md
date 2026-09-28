@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **alist 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d020182cd848](https://pan.quark.cn/s/d020182cd848)
+> **alist 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5bad24f22a0d](https://pan.quark.cn/s/5bad24f22a0d)
 
 ---
 

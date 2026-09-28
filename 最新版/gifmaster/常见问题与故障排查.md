@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **gifmaster 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/920a9e871669](https://pan.quark.cn/s/920a9e871669)
+> **gifmaster 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d18bdf6d4421](https://pan.quark.cn/s/d18bdf6d4421)
 
 ---
 

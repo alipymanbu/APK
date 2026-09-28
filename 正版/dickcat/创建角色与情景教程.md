@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **dickcat 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d5398be07227](https://pan.quark.cn/s/d5398be07227)
+> **dickcat 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b59006ffddb0](https://pan.quark.cn/s/b59006ffddb0)
 
 ---
 

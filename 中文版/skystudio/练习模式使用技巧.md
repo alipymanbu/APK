@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Sky Studio 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f65306897642](https://pan.quark.cn/s/f65306897642)
+> **Sky Studio 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1b3dd65c4085](https://pan.quark.cn/s/1b3dd65c4085)
 
 ---
 

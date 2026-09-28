@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **TEFModLoader 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/93ce95115c59](https://pan.quark.cn/s/93ce95115c59)
+> **TEFModLoader 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/76c2a5d0ac97](https://pan.quark.cn/s/76c2a5d0ac97)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **GTSAOOL 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/9c62e5d8c486](https://pan.quark.cn/s/9c62e5d8c486)
+> **GTSAOOL 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8d1a740ae656](https://pan.quark.cn/s/8d1a740ae656)
 
 ---
 

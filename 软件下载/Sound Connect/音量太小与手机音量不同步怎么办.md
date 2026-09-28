@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Sound Connect 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7d9229302244](https://pan.quark.cn/s/7d9229302244)
+> **Sound Connect 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ef4a3962f08f](https://pan.quark.cn/s/ef4a3962f08f)
 
 ---
 

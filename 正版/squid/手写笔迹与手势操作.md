@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Squid 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/fd003554c7fc](https://pan.quark.cn/s/fd003554c7fc)
+> **Squid 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2df8c24bece2](https://pan.quark.cn/s/2df8c24bece2)
 
 ---
 

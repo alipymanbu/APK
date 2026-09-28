@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **WiFiman 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/db4c585d4e16](https://pan.quark.cn/s/db4c585d4e16)
+> **WiFiman 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/be8a35131b47](https://pan.quark.cn/s/be8a35131b47)
 
 ---
 

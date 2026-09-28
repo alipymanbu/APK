@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Rockbox 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2cb5778b18ee](https://pan.quark.cn/s/2cb5778b18ee)
+> **Rockbox 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/02d7cb8e5b9e](https://pan.quark.cn/s/02d7cb8e5b9e)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **App Manager 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/28732ca34e60](https://pan.quark.cn/s/28732ca34e60)
+> **App Manager 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0ea84158b105](https://pan.quark.cn/s/0ea84158b105)
 
 ---
 

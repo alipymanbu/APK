@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **twime 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b1909d6245e6](https://pan.quark.cn/s/b1909d6245e6)
+> **twime 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a082b9f9399b](https://pan.quark.cn/s/a082b9f9399b)
 
 ---
 

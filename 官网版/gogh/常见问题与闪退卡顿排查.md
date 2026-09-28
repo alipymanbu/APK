@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **gogh 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/cf7f377b0600](https://pan.quark.cn/s/cf7f377b0600)
+> **gogh 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/720d2dd8a221](https://pan.quark.cn/s/720d2dd8a221)
 
 ---
 

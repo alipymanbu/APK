@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **NFC Writer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3fac87b88ce4](https://pan.quark.cn/s/3fac87b88ce4)
+> **NFC Writer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/907d1f82e87b](https://pan.quark.cn/s/907d1f82e87b)
 
 ---
 
@@ -36,6 +36,6 @@
 
 ## 四、买回来之后
 
-写卡步骤见 [写门禁卡步骤](写门禁卡步骤.md)；写不进去、写完刷不开门，先去 [读卡失败怎么办](读卡失败怎么办.md) 排查。写卡用的应用从这里获取：[NFC Writer 安装文件资源（夸克网盘）](https://pan.quark.cn/s/3fac87b88ce4)。
+写卡步骤见 [写门禁卡步骤](写门禁卡步骤.md)；写不进去、写完刷不开门，先去 [读卡失败怎么办](读卡失败怎么办.md) 排查。写卡用的应用从这里获取：[NFC Writer 安装文件资源（夸克网盘）](https://pan.quark.cn/s/907d1f82e87b)。
 
 照例提醒一句：空白卡只用来复制你自己有权使用的卡，并遵守物业管理规定与当地法规。

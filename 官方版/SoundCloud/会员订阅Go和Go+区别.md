@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **SoundCloud 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/151e6282300d](https://pan.quark.cn/s/151e6282300d)
+> **SoundCloud 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6c37e8389c0e](https://pan.quark.cn/s/6c37e8389c0e)
 
 ---
 

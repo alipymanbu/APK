@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **NFC Writer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3fac87b88ce4](https://pan.quark.cn/s/3fac87b88ce4)
+> **NFC Writer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/907d1f82e87b](https://pan.quark.cn/s/907d1f82e87b)
 
 ---
 
@@ -37,4 +37,4 @@
 
 ## 四、写标签用什么
 
-装好 NFC Writer，按 [制作碰碰贴与NFC名片](制作碰碰贴与NFC名片.md) 的步骤写就行；应用从这里获取：[NFC Writer 安装文件资源（夸克网盘）](https://pan.quark.cn/s/3fac87b88ce4)。写入没反应先看 [读卡失败怎么办](读卡失败怎么办.md)，注意贴在金属面上的标签读不到不是应用的问题。
+装好 NFC Writer，按 [制作碰碰贴与NFC名片](制作碰碰贴与NFC名片.md) 的步骤写就行；应用从这里获取：[NFC Writer 安装文件资源（夸克网盘）](https://pan.quark.cn/s/907d1f82e87b)。写入没反应先看 [读卡失败怎么办](读卡失败怎么办.md)，注意贴在金属面上的标签读不到不是应用的问题。

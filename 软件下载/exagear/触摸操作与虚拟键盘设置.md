@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **ExaGear 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/561282c37c32](https://pan.quark.cn/s/561282c37c32)
+> **ExaGear 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4855ae035dd9](https://pan.quark.cn/s/4855ae035dd9)
 
 ---
 

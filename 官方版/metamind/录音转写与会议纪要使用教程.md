@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **metamind 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/59a209cb5a04](https://pan.quark.cn/s/59a209cb5a04)
+> **metamind 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f3c44ef765aa](https://pan.quark.cn/s/f3c44ef765aa)
 
 ---
 

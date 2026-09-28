@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **DHgate 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ce9ca123e7cf](https://pan.quark.cn/s/ce9ca123e7cf)
+> **DHgate 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d8ce29f282c0](https://pan.quark.cn/s/d8ce29f282c0)
 
 ---
 

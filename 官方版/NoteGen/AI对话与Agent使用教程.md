@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **NoteGen 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/db34ce91c54b](https://pan.quark.cn/s/db34ce91c54b)
+> **NoteGen 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/baf13c59cbb2](https://pan.quark.cn/s/baf13c59cbb2)
 
 ---
 

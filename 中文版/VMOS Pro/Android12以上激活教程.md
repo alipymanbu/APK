@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **VMOS Pro 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5dbd4de62615](https://pan.quark.cn/s/5dbd4de62615)
+> **VMOS Pro 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e440d7c6dc11](https://pan.quark.cn/s/e440d7c6dc11)
 
 ---
 

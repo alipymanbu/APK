@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Chaldea 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/79b95c021587](https://pan.quark.cn/s/79b95c021587)
+> **Chaldea 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ee7688c3a1cf](https://pan.quark.cn/s/ee7688c3a1cf)
 
 ---
 

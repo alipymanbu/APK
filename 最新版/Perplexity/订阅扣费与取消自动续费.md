@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Perplexity 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e4264b1e2e48](https://pan.quark.cn/s/e4264b1e2e48)
+> **Perplexity 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2ed46ca8424d](https://pan.quark.cn/s/2ed46ca8424d)
 
 ---
 

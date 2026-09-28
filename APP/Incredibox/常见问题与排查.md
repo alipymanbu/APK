@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Incredibox 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a895f3673649](https://pan.quark.cn/s/a895f3673649)
+> **Incredibox 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4c8dba34b98a](https://pan.quark.cn/s/4c8dba34b98a)
 
 ---
 

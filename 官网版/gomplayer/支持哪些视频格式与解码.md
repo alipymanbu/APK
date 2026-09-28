@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **GOM Player 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d2fd8b548868](https://pan.quark.cn/s/d2fd8b548868)
+> **GOM Player 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5ca9c08d2318](https://pan.quark.cn/s/5ca9c08d2318)
 
 ---
 

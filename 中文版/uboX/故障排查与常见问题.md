@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **UBox 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/403df2722f89](https://pan.quark.cn/s/403df2722f89)
+> **UBox 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/52a462e57275](https://pan.quark.cn/s/52a462e57275)
 
 ---
 

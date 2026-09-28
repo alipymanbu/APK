@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Chai 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8e51de8be1b8](https://pan.quark.cn/s/8e51de8be1b8)
+> **Chai 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b6372323bd53](https://pan.quark.cn/s/b6372323bd53)
 
 ---
 

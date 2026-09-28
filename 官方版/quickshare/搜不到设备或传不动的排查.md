@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Quick Share 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/9f1e98469c40](https://pan.quark.cn/s/9f1e98469c40)
+> **Quick Share 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/103fce72bbfd](https://pan.quark.cn/s/103fce72bbfd)
 
 ---
 

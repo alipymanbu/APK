@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **lifelight 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ddc2cdc700ed](https://pan.quark.cn/s/ddc2cdc700ed)
+> **lifelight 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/472c981325ec](https://pan.quark.cn/s/472c981325ec)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **DiskDigger 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/64898963cf98](https://pan.quark.cn/s/64898963cf98)
+> **DiskDigger 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b232ba0f2326](https://pan.quark.cn/s/b232ba0f2326)
 
 ---
 

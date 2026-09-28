@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Beats 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/81a57d60cd5a](https://pan.quark.cn/s/81a57d60cd5a)
+> **Beats 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e887e22e356f](https://pan.quark.cn/s/e887e22e356f)
 
 ---
 

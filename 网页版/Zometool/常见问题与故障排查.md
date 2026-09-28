@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Zometool 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1ce30cac4c7d](https://pan.quark.cn/s/1ce30cac4c7d)
+> **Zometool 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a94273044f8d](https://pan.quark.cn/s/a94273044f8d)
 
 ---
 

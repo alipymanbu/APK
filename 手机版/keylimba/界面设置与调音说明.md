@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **keylimba 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/577fe5176da2](https://pan.quark.cn/s/577fe5176da2)
+> **keylimba 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/502be75d3c66](https://pan.quark.cn/s/502be75d3c66)
 
 ---
 

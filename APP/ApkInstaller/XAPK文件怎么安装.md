@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **ApkInstaller 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/20d1729fc4fd](https://pan.quark.cn/s/20d1729fc4fd)
+> **ApkInstaller 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8d188fa090d5](https://pan.quark.cn/s/8d188fa090d5)
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 二、用 ApkInstaller 装 XAPK 的步骤
 
-前提：ApkInstaller 已经装好（步骤见 [下载与安装教程.md](下载与安装教程.md)），XAPK 文件已下载到手机存储里。没有工具的话，安装文件资源在这里：[ApkInstaller 安装文件资源（夸克网盘）](https://pan.quark.cn/s/20d1729fc4fd)。
+前提：ApkInstaller 已经装好（步骤见 [下载与安装教程.md](下载与安装教程.md)），XAPK 文件已下载到手机存储里。没有工具的话，安装文件资源在这里：[ApkInstaller 安装文件资源（夸克网盘）](https://pan.quark.cn/s/8d188fa090d5)。
 
 1. **打开 ApkInstaller**。它启动后会扫描手机内部存储与 SD 卡，把找到的 `.apk`、`.xapk` 文件列成清单 —— 你不用自己翻文件夹；
 2. **在清单里点中你要装的那个 XAPK**。如果扫描列表里没有，用它的文件浏览功能进入下载目录手动选中；

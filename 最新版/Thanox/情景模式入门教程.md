@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Thanox 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/591ef2c52ace](https://pan.quark.cn/s/591ef2c52ace)
+> **Thanox 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1d3b5f89fe5d](https://pan.quark.cn/s/1d3b5f89fe5d)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **APatch 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/631601c17a4d](https://pan.quark.cn/s/631601c17a4d)
+> **APatch 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/97a3e4130374](https://pan.quark.cn/s/97a3e4130374)
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## 二、只升级管理器
 
-直接在应用内更新即可；也可以下载新版本安装包后，点右上角按钮选 `Patch and install`（修补并安装）。要装的那份新版安装包在这里：[APatch 安装文件资源（夸克网盘）](https://pan.quark.cn/s/631601c17a4d)。更新后如有必要，按提示重新确认一次超级密钥。
+直接在应用内更新即可；也可以下载新版本安装包后，点右上角按钮选 `Patch and install`（修补并安装）。要装的那份新版安装包在这里：[APatch 安装文件资源（夸克网盘）](https://pan.quark.cn/s/97a3e4130374)。更新后如有必要，按提示重新确认一次超级密钥。
 
 注意两条官方提示：
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Quizlet 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/bb5e1a523629](https://pan.quark.cn/s/bb5e1a523629)
+> **Quizlet 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/32401aebf48a](https://pan.quark.cn/s/32401aebf48a)
 
 ---
 

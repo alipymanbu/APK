@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **BootAnimation 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/21bbf250697a](https://pan.quark.cn/s/21bbf250697a)
+> **BootAnimation 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/46c14a36487c](https://pan.quark.cn/s/46c14a36487c)
 
 ---
 

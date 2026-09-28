@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **ChatExcel 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e8d671119733](https://pan.quark.cn/s/e8d671119733)
+> **ChatExcel 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f13ff60d4f73](https://pan.quark.cn/s/f13ff60d4f73)
 
 ---
 

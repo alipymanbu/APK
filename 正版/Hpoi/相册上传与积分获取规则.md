@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Hpoi 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7263b0480dc0](https://pan.quark.cn/s/7263b0480dc0)
+> **Hpoi 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4e8681d832da](https://pan.quark.cn/s/4e8681d832da)
 
 ---
 

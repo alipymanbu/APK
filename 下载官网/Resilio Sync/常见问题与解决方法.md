@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Resilio Sync 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0be8c4fac42d](https://pan.quark.cn/s/0be8c4fac42d)
+> **Resilio Sync 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6a2de0f65e4b](https://pan.quark.cn/s/6a2de0f65e4b)
 
 ---
 

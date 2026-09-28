@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **FurryBar 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/086a7aac35f2](https://pan.quark.cn/s/086a7aac35f2)
+> **FurryBar 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/40bd4c44526c](https://pan.quark.cn/s/40bd4c44526c)
 
 ---
 

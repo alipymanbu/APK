@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **G-SHOCK Connected 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/411cd17e62e4](https://pan.quark.cn/s/411cd17e62e4)
+> **G-SHOCK Connected 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d6992f640835](https://pan.quark.cn/s/d6992f640835)
 
 ---
 
@@ -29,7 +29,7 @@
 
 操作前先确认两件事，否则迁移会被卡住：
 
-- **版本够不够**：迁移要求 G-SHOCK Connected 3.0 以上。旧版本先升级——手头没有安装包的话，[G-SHOCK Connected 安装文件资源（夸克网盘）](https://pan.quark.cn/s/411cd17e62e4)里这份 3.0.31222A 满足要求；
+- **版本够不够**：迁移要求 G-SHOCK Connected 3.0 以上。旧版本先升级——手头没有安装包的话，[G-SHOCK Connected 安装文件资源（夸克网盘）](https://pan.quark.cn/s/d6992f640835)里这份 3.0.31222A 满足要求；
 - **系统够不够**：Android 7 及以下的手机官方明确不支持迁移（CASIO WATCHES 本身也要求 Android 8.0+），这种手机只能继续用 G-SHOCK Connected。
 
 ## 三、迁移前必须记住的顺序

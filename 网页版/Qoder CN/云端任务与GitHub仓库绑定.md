@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Qoder CN 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f99328037a3f](https://pan.quark.cn/s/f99328037a3f)
+> **Qoder CN 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7592c4db99d7](https://pan.quark.cn/s/7592c4db99d7)
 
 ---
 

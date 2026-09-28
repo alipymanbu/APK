@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **1Password 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/800665dac1df](https://pan.quark.cn/s/800665dac1df)
+> **1Password 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f287381f8c41](https://pan.quark.cn/s/f287381f8c41)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **F-Stop 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/31c71e16e807](https://pan.quark.cn/s/31c71e16e807)
+> **F-Stop 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/27a8f9f56c2f](https://pan.quark.cn/s/27a8f9f56c2f)
 
 ---
 

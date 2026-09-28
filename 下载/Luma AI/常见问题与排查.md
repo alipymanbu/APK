@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Luma AI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/81bd7a19560c](https://pan.quark.cn/s/81bd7a19560c)
+> **Luma AI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d6cc6b8515c0](https://pan.quark.cn/s/d6cc6b8515c0)
 
 ---
 

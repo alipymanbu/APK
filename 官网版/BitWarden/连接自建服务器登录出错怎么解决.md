@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Bitwarden 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3231ad0ec633](https://pan.quark.cn/s/3231ad0ec633)
+> **Bitwarden 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b658168c8d5e](https://pan.quark.cn/s/b658168c8d5e)
 
 ---
 

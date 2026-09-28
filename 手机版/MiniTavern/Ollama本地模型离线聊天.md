@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **MiniTavern 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6a0153254d97](https://pan.quark.cn/s/6a0153254d97)
+> **MiniTavern 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/53fcf6923af5](https://pan.quark.cn/s/53fcf6923af5)
 
 ---
 

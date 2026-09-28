@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **HoYoLAB 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1cf76d0d9e28](https://pan.quark.cn/s/1cf76d0d9e28)
+> **HoYoLAB 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/50801234da58](https://pan.quark.cn/s/50801234da58)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **zlink5 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/80860b7056ac](https://pan.quark.cn/s/80860b7056ac)
+> **zlink5 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/04647e6488df](https://pan.quark.cn/s/04647e6488df)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Amarket 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e7a722d8fa5e](https://pan.quark.cn/s/e7a722d8fa5e)
+> **Amarket 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ec10e5642ab6](https://pan.quark.cn/s/ec10e5642ab6)
 
 ---
 

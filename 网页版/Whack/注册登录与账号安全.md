@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Whack 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0e0c649f0e9e](https://pan.quark.cn/s/0e0c649f0e9e)
+> **Whack 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/58b84c716049](https://pan.quark.cn/s/58b84c716049)
 
 ---
 

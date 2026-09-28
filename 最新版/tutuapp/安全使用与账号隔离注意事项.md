@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **TutuApp 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0a9395f82d28](https://pan.quark.cn/s/0a9395f82d28)
+> **TutuApp 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/17f95c30a919](https://pan.quark.cn/s/17f95c30a919)
 
 ---
 

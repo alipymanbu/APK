@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **PixAI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2696cf0b4291](https://pan.quark.cn/s/2696cf0b4291)
+> **PixAI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d5f18e8688ca](https://pan.quark.cn/s/d5f18e8688ca)
 
 ---
 

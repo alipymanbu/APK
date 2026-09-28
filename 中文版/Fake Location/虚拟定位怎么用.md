@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Fake Location 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/008346c4c4f0](https://pan.quark.cn/s/008346c4c4f0)
+> **Fake Location 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8f975e9aebcb](https://pan.quark.cn/s/8f975e9aebcb)
 
 ---
 

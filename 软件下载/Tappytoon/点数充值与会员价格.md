@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Tappytoon 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1b35e25c87f9](https://pan.quark.cn/s/1b35e25c87f9)
+> **Tappytoon 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b0e80a812e3f](https://pan.quark.cn/s/b0e80a812e3f)
 
 ---
 

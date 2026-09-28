@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **NetherSX2 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4bd835138339](https://pan.quark.cn/s/4bd835138339)
+> **NetherSX2 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ede9694a4c71](https://pan.quark.cn/s/ede9694a4c71)
 
 ---
 

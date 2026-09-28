@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **jetAudio 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6bda7c664ad1](https://pan.quark.cn/s/6bda7c664ad1)
+> **jetAudio 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a3027b3e8184](https://pan.quark.cn/s/a3027b3e8184)
 
 ---
 

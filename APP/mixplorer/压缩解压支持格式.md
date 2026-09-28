@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **MiXplorer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b820157fbf57](https://pan.quark.cn/s/b820157fbf57)
+> **MiXplorer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/08c7c3b85e58](https://pan.quark.cn/s/08c7c3b85e58)
 
 ---
 

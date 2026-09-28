@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Lumora 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/67cf5ec3612c](https://pan.quark.cn/s/67cf5ec3612c)
+> **Lumora 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4357a861a81b](https://pan.quark.cn/s/4357a861a81b)
 
 ---
 

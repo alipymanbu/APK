@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **pic2acg 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a05e8798a23f](https://pan.quark.cn/s/a05e8798a23f)
+> **pic2acg 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4c730e42c2cd](https://pan.quark.cn/s/4c730e42c2cd)
 
 ---
 

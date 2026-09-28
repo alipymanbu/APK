@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **niji・journey 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/fcfb270a5ab8](https://pan.quark.cn/s/fcfb270a5ab8)
+> **niji・journey 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/170dfd26f581](https://pan.quark.cn/s/170dfd26f581)
 
 ---
 

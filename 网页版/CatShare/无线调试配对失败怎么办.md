@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **CatShare 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5a097b31e285](https://pan.quark.cn/s/5a097b31e285)
+> **CatShare 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e9bd506b0421](https://pan.quark.cn/s/e9bd506b0421)
 
 ---
 

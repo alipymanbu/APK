@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **musicLine 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/20472f7ea826](https://pan.quark.cn/s/20472f7ea826)
+> **musicLine 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ca7d0056554a](https://pan.quark.cn/s/ca7d0056554a)
 
 ---
 

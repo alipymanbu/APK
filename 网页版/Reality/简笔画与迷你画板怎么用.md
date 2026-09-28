@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Reality 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a36de29e169e](https://pan.quark.cn/s/a36de29e169e)
+> **Reality 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/19ed5e5e6e10](https://pan.quark.cn/s/19ed5e5e6e10)
 
 ---
 

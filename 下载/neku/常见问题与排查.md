@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Neku 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2c25ee3fe6f7](https://pan.quark.cn/s/2c25ee3fe6f7)
+> **Neku 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1870cc37dd6e](https://pan.quark.cn/s/1870cc37dd6e)
 
 ---
 

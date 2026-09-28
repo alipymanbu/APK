@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Wildberries 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a98a41fd41f5](https://pan.quark.cn/s/a98a41fd41f5)
+> **Wildberries 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d65f7a7cf0cb](https://pan.quark.cn/s/d65f7a7cf0cb)
 
 ---
 

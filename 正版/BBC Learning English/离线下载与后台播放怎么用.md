@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **BBC Learning English 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ab35c0e0c01a](https://pan.quark.cn/s/ab35c0e0c01a)
+> **BBC Learning English 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5c8c98587d19](https://pan.quark.cn/s/5c8c98587d19)
 
 ---
 

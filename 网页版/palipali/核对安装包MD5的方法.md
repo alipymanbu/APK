@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **palipali 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8f232b8269aa](https://pan.quark.cn/s/8f232b8269aa)
+> **palipali 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/13c2672ecdca](https://pan.quark.cn/s/13c2672ecdca)
 
 ---
 
@@ -55,7 +55,7 @@ md5 palipali_v8.7.5.apk
 
 ## 四、核对不通过怎么办
 
-- **和基准值不一致**：文件下载不完整，或者根本是另一份包。删掉后重新从 palipali 安装文件资源（夸克网盘）获取：[https://pan.quark.cn/s/8f232b8269aa](https://pan.quark.cn/s/8f232b8269aa)，下完再核一遍。
+- **和基准值不一致**：文件下载不完整，或者根本是另一份包。删掉后重新从 palipali 安装文件资源（夸克网盘）获取：[https://pan.quark.cn/s/13c2672ecdca](https://pan.quark.cn/s/13c2672ecdca)，下完再核一遍。
 - **MD5 一致但包名不同**：不成立——MD5 一致则文件逐字节相同，包名必然相同。如果你看到「MD5 一样但名字不一样」，那是显示名不同，以包名为准。
 - **MD5 一致、体积对不上**：同理不会发生，两者一致说明就是同一份文件，放心安装。
 

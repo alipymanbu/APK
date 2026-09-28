@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Our Teacher 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/fd0cbedd8151](https://pan.quark.cn/s/fd0cbedd8151)
+> **Our Teacher 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e8bb834b0b8c](https://pan.quark.cn/s/e8bb834b0b8c)
 
 ---
 

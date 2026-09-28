@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Robot36 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ff89eaf53b3d](https://pan.quark.cn/s/ff89eaf53b3d)
+> **Robot36 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/00a4cb68900b](https://pan.quark.cn/s/00a4cb68900b)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **AndroidIDE 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7aa930d0c096](https://pan.quark.cn/s/7aa930d0c096)
+> **AndroidIDE 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/cc7394f1f49b](https://pan.quark.cn/s/cc7394f1f49b)
 
 ---
 

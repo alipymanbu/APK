@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Sketchfab 安装文件资源（夸克网盘）**：https://pan.quark.cn/s/d0a573136fee
+> **Sketchfab 安装文件资源（夸克网盘）**：https://pan.quark.cn/s/81d552001b14
 
 ---
 

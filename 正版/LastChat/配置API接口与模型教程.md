@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **LastChat 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/23f77e84f6f7](https://pan.quark.cn/s/23f77e84f6f7)
+> **LastChat 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5a387da979cf](https://pan.quark.cn/s/5a387da979cf)
 
 ---
 

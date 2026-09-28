@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Slidebox 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/aa0889552672](https://pan.quark.cn/s/aa0889552672)
+> **Slidebox 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/15268d70cfe0](https://pan.quark.cn/s/15268d70cfe0)
 
 ---
 

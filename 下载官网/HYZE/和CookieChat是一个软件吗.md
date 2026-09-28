@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **HYZE 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/44cd507f2778](https://pan.quark.cn/s/44cd507f2778)
+> **HYZE 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/549aba11a20f](https://pan.quark.cn/s/549aba11a20f)
 
 ---
 

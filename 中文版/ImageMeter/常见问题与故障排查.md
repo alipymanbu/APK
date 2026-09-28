@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **ImageMeter 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3f5bc8409672](https://pan.quark.cn/s/3f5bc8409672)
+> **ImageMeter 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/10544854d2e0](https://pan.quark.cn/s/10544854d2e0)
 
 ---
 

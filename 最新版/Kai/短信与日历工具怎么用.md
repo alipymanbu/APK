@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Kai 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/21dc679261a3](https://pan.quark.cn/s/21dc679261a3)
+> **Kai 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/04541d8de75a](https://pan.quark.cn/s/04541d8de75a)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **ProShot 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/72dac1e72efb](https://pan.quark.cn/s/72dac1e72efb)
+> **ProShot 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e41b0a386e07](https://pan.quark.cn/s/e41b0a386e07)
 
 ---
 

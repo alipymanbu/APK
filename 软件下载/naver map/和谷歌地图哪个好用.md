@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **NAVER Map 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d9ec9523f04a](https://pan.quark.cn/s/d9ec9523f04a)
+> **NAVER Map 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/12752155752d](https://pan.quark.cn/s/12752155752d)
 
 ---
 

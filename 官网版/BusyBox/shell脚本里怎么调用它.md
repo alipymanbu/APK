@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **BusyBox 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/eb2f313d9c4a](https://pan.quark.cn/s/eb2f313d9c4a)
+> **BusyBox 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/122b16f4e7d1](https://pan.quark.cn/s/122b16f4e7d1)
 
 ---
 

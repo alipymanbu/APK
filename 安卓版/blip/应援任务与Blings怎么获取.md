@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **blip 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2d6f2d7345f4](https://pan.quark.cn/s/2d6f2d7345f4)
+> **blip 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4be47be95c2a](https://pan.quark.cn/s/4be47be95c2a)
 
 ---
 

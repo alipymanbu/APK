@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **PCAPdroid 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/20a1904668ba](https://pan.quark.cn/s/20a1904668ba)
+> **PCAPdroid 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/10f7279daf3c](https://pan.quark.cn/s/10f7279daf3c)
 
 ---
 

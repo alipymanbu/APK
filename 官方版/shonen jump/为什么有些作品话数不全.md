@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Shonen Jump 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d5458ab1ca90](https://pan.quark.cn/s/d5458ab1ca90)
+> **Shonen Jump 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/22f2720a84de](https://pan.quark.cn/s/22f2720a84de)
 
 ---
 

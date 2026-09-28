@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **IP Tools 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/38d403a86062](https://pan.quark.cn/s/38d403a86062)
+> **IP Tools 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/32c34a7a714e](https://pan.quark.cn/s/32c34a7a714e)
 
 ---
 

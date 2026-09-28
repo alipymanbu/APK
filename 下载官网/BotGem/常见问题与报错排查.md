@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **BotGem 安装文件资源（夸克网盘）**：https://pan.quark.cn/s/49759d2b8b48
+> **BotGem 安装文件资源（夸克网盘）**：https://pan.quark.cn/s/7a3f98a00d2c
 
 ---
 

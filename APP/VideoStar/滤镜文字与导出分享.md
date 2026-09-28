@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **VideoStar 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/fa3991baf171](https://pan.quark.cn/s/fa3991baf171)
+> **VideoStar 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d3d1e011d7d3](https://pan.quark.cn/s/d3d1e011d7d3)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **BOFY 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/934b73ef24dd](https://pan.quark.cn/s/934b73ef24dd)
+> **BOFY 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/084ab014ff8a](https://pan.quark.cn/s/084ab014ff8a)
 
 ---
 

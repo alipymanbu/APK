@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Bing 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/9db5d5625446](https://pan.quark.cn/s/9db5d5625446)
+> **Bing 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ca44540a922c](https://pan.quark.cn/s/ca44540a922c)
 
 ---
 

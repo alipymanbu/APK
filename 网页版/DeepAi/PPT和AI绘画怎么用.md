@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **DeepAI智能助手 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3d19398523cf](https://pan.quark.cn/s/3d19398523cf)
+> **DeepAI智能助手 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b677bb3d2903](https://pan.quark.cn/s/b677bb3d2903)
 
 ---
 

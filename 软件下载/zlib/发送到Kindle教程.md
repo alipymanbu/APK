@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Z-Lib 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8a320041ac2d](https://pan.quark.cn/s/8a320041ac2d)
+> **Z-Lib 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/27ae2305d9e1](https://pan.quark.cn/s/27ae2305d9e1)
 
 ---
 

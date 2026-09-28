@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Smart Edge 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/15566aec8505](https://pan.quark.cn/s/15566aec8505)
+> **Smart Edge 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1c80b710f373](https://pan.quark.cn/s/1c80b710f373)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **httpCanary 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ed693e48cb79](https://pan.quark.cn/s/ed693e48cb79)
+> **httpCanary 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/66f404eb3cf6](https://pan.quark.cn/s/66f404eb3cf6)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Swift Backup 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1ea7f435a5fc](https://pan.quark.cn/s/1ea7f435a5fc)
+> **Swift Backup 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5c84c0a7a555](https://pan.quark.cn/s/5c84c0a7a555)
 
 ---
 

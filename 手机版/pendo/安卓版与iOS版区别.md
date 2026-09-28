@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Pendo Note 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6c227e07199f](https://pan.quark.cn/s/6c227e07199f)
+> **Pendo Note 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/81d2020ec00b](https://pan.quark.cn/s/81d2020ec00b)
 
 ---
 
@@ -24,7 +24,7 @@
 ## 二、上架渠道不同
 
 - **iOS / Mac 版**：在 Apple 的 App Store 上架，2014 年 1 月起就存在，官方介绍中提到曾多次获 App Store 推荐、在全球累计有数万条评分；
-- **安卓版**：没有走统一的官方商店渠道，主要通过第三方应用商店分发（比如 Aptoide 上可以看到 Pendo Note，下载量 5 万以上）。本文网盘里的安装文件资源就属于安卓这条线：[Pendo Note 安装文件资源（夸克网盘）](https://pan.quark.cn/s/6c227e07199f)。
+- **安卓版**：没有走统一的官方商店渠道，主要通过第三方应用商店分发（比如 Aptoide 上可以看到 Pendo Note，下载量 5 万以上）。本文网盘里的安装文件资源就属于安卓这条线：[Pendo Note 安装文件资源（夸克网盘）](https://pan.quark.cn/s/81d2020ec00b)。
 
 价格口径（截至 2026 年 9 月，以商店页面为准）：iOS / Mac 版在 App Store 免费下载、页面标注含内购；安卓版的第三方商店页面没有标价格信息，有没有内购以应用内实际提示为准。
 

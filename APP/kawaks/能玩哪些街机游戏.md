@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Kawaks 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b9bded6b336f](https://pan.quark.cn/s/b9bded6b336f)
+> **Kawaks 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4023d23a5d58](https://pan.quark.cn/s/4023d23a5d58)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Neye3C 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/47af1953c509](https://pan.quark.cn/s/47af1953c509)
+> **Neye3C 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d2aa7081ee55](https://pan.quark.cn/s/d2aa7081ee55)
 
 ---
 

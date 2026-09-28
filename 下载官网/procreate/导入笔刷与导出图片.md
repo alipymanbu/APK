@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Procreate 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/bb3abd4536e2](https://pan.quark.cn/s/bb3abd4536e2)
+> **Procreate 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/982a44f72cdf](https://pan.quark.cn/s/982a44f72cdf)
 
 ---
 

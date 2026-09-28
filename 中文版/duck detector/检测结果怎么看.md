@@ -5,7 +5,7 @@
 ---
 
 > [!IMPORTANT]
-> **Duck Detector 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8f1d4debf0d5](https://pan.quark.cn/s/8f1d4debf0d5)
+> **Duck Detector 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/9d2ec875eb9f](https://pan.quark.cn/s/9d2ec875eb9f)
 
 ---
 

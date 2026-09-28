@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **APatch 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/631601c17a4d](https://pan.quark.cn/s/631601c17a4d)
+> **APatch 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/97a3e4130374](https://pan.quark.cn/s/97a3e4130374)
 
 ---
 

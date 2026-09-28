@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **AirScreen 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/08f80c51a480](https://pan.quark.cn/s/08f80c51a480)
+> **AirScreen 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7d51c552856f](https://pan.quark.cn/s/7d51c552856f)
 
 ---
 

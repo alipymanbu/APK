@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Hunter 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0dd64a52bba0](https://pan.quark.cn/s/0dd64a52bba0)
+> **Hunter 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4021cea5df53](https://pan.quark.cn/s/4021cea5df53)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **miyu 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/fb3372e2bf91](https://pan.quark.cn/s/fb3372e2bf91)
+> **miyu 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/58ce6f344595](https://pan.quark.cn/s/58ce6f344595)
 
 ---
 

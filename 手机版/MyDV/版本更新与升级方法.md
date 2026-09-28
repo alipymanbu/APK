@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **myDV 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/05cb55fc0b69](https://pan.quark.cn/s/05cb55fc0b69)
+> **myDV 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/50d1d58b535b](https://pan.quark.cn/s/50d1d58b535b)
 
 ---
 

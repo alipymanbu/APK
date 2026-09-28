@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **LayerPaint HD 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/64da791854c3](https://pan.quark.cn/s/64da791854c3)
+> **LayerPaint HD 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/455730d132df](https://pan.quark.cn/s/455730d132df)
 
 ---
 

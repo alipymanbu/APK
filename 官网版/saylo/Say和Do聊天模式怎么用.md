@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Saylo 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/22f0c60c52c5](https://pan.quark.cn/s/22f0c60c52c5)
+> **Saylo 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/67694594f2e8](https://pan.quark.cn/s/67694594f2e8)
 
 ---
 

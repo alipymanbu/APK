@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Edge 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/287acf3b6e69](https://pan.quark.cn/s/287acf3b6e69)
+> **Edge 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5c288a88f789](https://pan.quark.cn/s/5c288a88f789)
 
 ---
 

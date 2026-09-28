@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **YAZIO 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/14e0d8856008](https://pan.quark.cn/s/14e0d8856008)
+> **YAZIO 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1123565ad85d](https://pan.quark.cn/s/1123565ad85d)
 
 ---
 

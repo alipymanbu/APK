@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Dhizuku 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8d2e8fc9ab89](https://pan.quark.cn/s/8d2e8fc9ab89)
+> **Dhizuku 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ccaf83b357e3](https://pan.quark.cn/s/ccaf83b357e3)
 
 ---
 

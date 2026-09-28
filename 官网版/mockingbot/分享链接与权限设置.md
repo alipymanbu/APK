@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **墨刀 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ccf03b71fe15](https://pan.quark.cn/s/ccf03b71fe15)
+> **墨刀 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b25ef75ec004](https://pan.quark.cn/s/b25ef75ec004)
 
 ---
 

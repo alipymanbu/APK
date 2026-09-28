@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Effie 安装文件资源（夸克网盘）**：https://pan.quark.cn/s/f2c41b82b739
+> **Effie 安装文件资源（夸克网盘）**：https://pan.quark.cn/s/0338396f6928
 
 ---
 

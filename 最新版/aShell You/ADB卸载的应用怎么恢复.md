@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **aShell You 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8ee87f93698d](https://pan.quark.cn/s/8ee87f93698d)
+> **aShell You 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/60ba8c6c52c3](https://pan.quark.cn/s/60ba8c6c52c3)
 
 ---
 

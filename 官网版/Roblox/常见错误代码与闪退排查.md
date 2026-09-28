@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Roblox 安装文件资源（夸克网盘）**：https://pan.quark.cn/s/802752c35d45
+> **Roblox 安装文件资源（夸克网盘）**：https://pan.quark.cn/s/0e1c31a06bce
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **FPA 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/160e2071b48d](https://pan.quark.cn/s/160e2071b48d)
+> **FPA 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/10e0b8390fb0](https://pan.quark.cn/s/10e0b8390fb0)
 
 ---
 

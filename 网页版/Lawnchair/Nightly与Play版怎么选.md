@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Lawnchair 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/620927d0940f](https://pan.quark.cn/s/620927d0940f)
+> **Lawnchair 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3ea9407ada2c](https://pan.quark.cn/s/3ea9407ada2c)
 
 ---
 
@@ -48,6 +48,6 @@
 
 ## 五、配套这份资源是哪一版
 
-本文配套的 [Lawnchair 安装文件资源（夸克网盘）](https://pan.quark.cn/s/620927d0940f) 里是一份 Nightly 构建：版本 15.Dev.2186、包名 `app.lawnchair.nightly`、大小 21.60 MB、MD5 `E06C7DD89683EE0554577835EBB42FBF`，整理于 2026 年 9 月。
+本文配套的 [Lawnchair 安装文件资源（夸克网盘）](https://pan.quark.cn/s/3ea9407ada2c) 里是一份 Nightly 构建：版本 15.Dev.2186、包名 `app.lawnchair.nightly`、大小 21.60 MB、MD5 `E06C7DD89683EE0554577835EBB42FBF`，整理于 2026 年 9 月。
 
 按第二节的读法，这份构建的编号在 Nightly 序列里不算新。介意新旧的话，装好后用应用内更新器升到当前构建，或者直接从官方 GitHub 拿最新的；不介意就先用，功能框架与设置项是一致的。

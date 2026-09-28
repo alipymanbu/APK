@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **SoulSync 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2ecdacba2862](https://pan.quark.cn/s/2ecdacba2862)
+> **SoulSync 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/73a4d31fe0fa](https://pan.quark.cn/s/73a4d31fe0fa)
 
 ---
 

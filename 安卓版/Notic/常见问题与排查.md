@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Notic 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c85f25a92459](https://pan.quark.cn/s/c85f25a92459)
+> **Notic 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/26657695e8a2](https://pan.quark.cn/s/26657695e8a2)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **EasyConnect 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8a8cd12df7c3](https://pan.quark.cn/s/8a8cd12df7c3)
+> **EasyConnect 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/391039148735](https://pan.quark.cn/s/391039148735)
 
 ---
 

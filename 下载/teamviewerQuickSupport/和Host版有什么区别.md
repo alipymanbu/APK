@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **TeamViewer QuickSupport 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/37818216e3b2](https://pan.quark.cn/s/37818216e3b2)
+> **TeamViewer QuickSupport 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d69ab36c918a](https://pan.quark.cn/s/d69ab36c918a)
 
 ---
 
@@ -43,6 +43,6 @@
 
 ## 五、拿安装包
 
-- **QuickSupport 15.50.396**（网盘，含包名/MD5 核对信息）：[TeamViewer QuickSupport 安装文件资源（夸克网盘）](https://pan.quark.cn/s/37818216e3b2)，装法见 [下载与安装教程.md](下载与安装教程.md)。
+- **QuickSupport 15.50.396**（网盘，含包名/MD5 核对信息）：[TeamViewer QuickSupport 安装文件资源（夸克网盘）](https://pan.quark.cn/s/d69ab36c918a)，装法见 [下载与安装教程.md](下载与安装教程.md)。
 - **Host 版**不在本文这份资源里，官方 APK 直链是 [download.teamviewer.com/download/TeamViewerHost.apk](https://download.teamviewer.com/download/TeamViewerHost.apk)（以官方页面当时显示为准）。
 - 首次连接的完整点法（弹窗长什么样、要点哪几个按钮），见 [远程协助连接步骤.md](远程协助连接步骤.md)。

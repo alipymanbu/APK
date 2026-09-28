@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **COSAI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1887be22f60d](https://pan.quark.cn/s/1887be22f60d)
+> **COSAI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/cb850dbdacb5](https://pan.quark.cn/s/cb850dbdacb5)
 
 ---
 

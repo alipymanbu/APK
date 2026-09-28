@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Iwara 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/bf62fe34afed](https://pan.quark.cn/s/bf62fe34afed)
+> **Iwara 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8e821bd7742d](https://pan.quark.cn/s/8e821bd7742d)
 
 ---
 

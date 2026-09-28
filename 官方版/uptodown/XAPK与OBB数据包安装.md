@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Uptodown 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f499d0383a99](https://pan.quark.cn/s/f499d0383a99)
+> **Uptodown 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/35d3391b2edb](https://pan.quark.cn/s/35d3391b2edb)
 
 ---
 

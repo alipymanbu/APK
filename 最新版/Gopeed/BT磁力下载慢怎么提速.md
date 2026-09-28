@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Gopeed 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/83c001c2165b](https://pan.quark.cn/s/83c001c2165b)
+> **Gopeed 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/fde7b1b9f9d3](https://pan.quark.cn/s/fde7b1b9f9d3)
 
 ---
 

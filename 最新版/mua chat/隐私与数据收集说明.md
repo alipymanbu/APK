@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **MuaChat 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d4665bc816e3](https://pan.quark.cn/s/d4665bc816e3)
+> **MuaChat 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/9532baef68b9](https://pan.quark.cn/s/9532baef68b9)
 
 ---
 

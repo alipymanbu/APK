@@ -5,7 +5,7 @@
 ---
 
 > [!IMPORTANT]
-> **AniFun 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a69d8adb98ae](https://pan.quark.cn/s/a69d8adb98ae)
+> **AniFun 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/67e27d10c378](https://pan.quark.cn/s/67e27d10c378)
 
 ---
 
@@ -31,7 +31,7 @@ app 之外，AniFun 维护着官网网页版 [anifun.cn](https://anifun.cn)，�
 | 临时设备、不便安装应用 | 网页版 | 零安装、不往设备里塞 APK |
 | 手机系统版本偏低装不上 | 网页版 | App 要求 Android 5.2 及以上，网页版只取决于浏览器 |
 
-决定用 app 的话，安装包在 **AniFun 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a69d8adb98ae](https://pan.quark.cn/s/a69d8adb98ae)，取包与安装步骤见 [下载与安装教程.md](下载与安装教程.md)。
+决定用 app 的话，安装包在 **AniFun 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/67e27d10c378](https://pan.quark.cn/s/67e27d10c378)，取包与安装步骤见 [下载与安装教程.md](下载与安装教程.md)。
 
 ## 三、两边细节以各自版本为准
 

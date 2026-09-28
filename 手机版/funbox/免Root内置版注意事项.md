@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **FunBox 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/70bee56cedcc](https://pan.quark.cn/s/70bee56cedcc)
+> **FunBox 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/30bb5933b4d5](https://pan.quark.cn/s/30bb5933b4d5)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Filmly 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e21b95a7c033](https://pan.quark.cn/s/e21b95a7c033)
+> **Filmly 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5d6a88d57bfb](https://pan.quark.cn/s/5d6a88d57bfb)
 
 ---
 

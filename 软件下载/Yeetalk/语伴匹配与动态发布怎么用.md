@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Yeetalk 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0ea2c64d6126](https://pan.quark.cn/s/0ea2c64d6126)
+> **Yeetalk 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8a93c1d21ba8](https://pan.quark.cn/s/8a93c1d21ba8)
 
 ---
 

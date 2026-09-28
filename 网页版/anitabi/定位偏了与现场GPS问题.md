@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **anitabi 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/88a16e73b323](https://pan.quark.cn/s/88a16e73b323)
+> **anitabi 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/122555bb1815](https://pan.quark.cn/s/122555bb1815)
 
 ---
 

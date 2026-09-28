@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **LightNovelReader 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7bce9a01b1dc](https://pan.quark.cn/s/7bce9a01b1dc)
+> **LightNovelReader 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d9671706749b](https://pan.quark.cn/s/d9671706749b)
 
 ---
 
@@ -41,7 +41,7 @@
 1. 手机「设置 → 应用管理」里找到该应用，看应用详情里的包名；
 2. 也可以打开应用进「设置 / 关于」页看版本号——LightNovelReader 会显示形如 `1.2.1` 的版本信息，与本目录教程的截图对得上。
 
-安装包本身也能辅助判断：[LightNovelReader 安装文件资源（夸克网盘）](https://pan.quark.cn/s/7bce9a01b1dc)里那份的包名就是 `indi.dmzz_yyhyy.lightnovelreader`（渠道明细见 [下载与安装教程.md](下载与安装教程.md) 第二节）。
+安装包本身也能辅助判断：[LightNovelReader 安装文件资源（夸克网盘）](https://pan.quark.cn/s/d9671706749b)里那份的包名就是 `indi.dmzz_yyhyy.lightnovelreader`（渠道明细见 [下载与安装教程.md](下载与安装教程.md) 第二节）。
 
 ## 四、已经装错了 / 按错教程操作了怎么办
 

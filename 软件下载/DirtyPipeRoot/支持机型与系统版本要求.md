@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **DirtyPipeRoot 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/da9b6c3071b1](https://pan.quark.cn/s/da9b6c3071b1)
+> **DirtyPipeRoot 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/db28e8dbbc1c](https://pan.quark.cn/s/db28e8dbbc1c)
 
 ---
 

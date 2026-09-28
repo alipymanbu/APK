@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **V5item 安装文件资源（夸克网盘）**：https://pan.quark.cn/s/798d67d024f6
+> **V5item 安装文件资源（夸克网盘）**：https://pan.quark.cn/s/47326b2882e2
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Symfonium 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/705e27d128fc](https://pan.quark.cn/s/705e27d128fc)
+> **Symfonium 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2fad0ba7ec69](https://pan.quark.cn/s/2fad0ba7ec69)
 
 ---
 

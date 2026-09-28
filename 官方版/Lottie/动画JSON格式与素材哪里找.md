@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Lottie 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/cd44c6634131](https://pan.quark.cn/s/cd44c6634131)
+> **Lottie 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/057522d013f7](https://pan.quark.cn/s/057522d013f7)
 
 ---
 

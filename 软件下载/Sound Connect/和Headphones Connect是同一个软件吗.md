@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Sound Connect 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7d9229302244](https://pan.quark.cn/s/7d9229302244)
+> **Sound Connect 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ef4a3962f08f](https://pan.quark.cn/s/ef4a3962f08f)
 
 ---
 
@@ -40,5 +40,5 @@
 ## 五、现在该装哪个版本
 
 - 手机能用商店就用商店的最新版，自动更新最省心。
-- 走 APK 的，认准包名 `com.sony.songpal.mdr`；想要稳定归档的那份，本篇头部的 [Sound Connect 安装文件资源（夸克网盘）](https://pan.quark.cn/s/7d9229302244) 就是。
+- 走 APK 的，认准包名 `com.sony.songpal.mdr`；想要稳定归档的那份，本篇头部的 [Sound Connect 安装文件资源（夸克网盘）](https://pan.quark.cn/s/ef4a3962f08f) 就是。
 - 部分新固件强制要求新版 App（如要求 12.3.0 或以上），App 版本太旧时先升 App 再升耳机。

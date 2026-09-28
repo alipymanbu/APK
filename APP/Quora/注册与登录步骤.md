@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Quora 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3062e660fd6c](https://pan.quark.cn/s/3062e660fd6c)
+> **Quora 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5f2842ab5380](https://pan.quark.cn/s/5f2842ab5380)
 
 ---
 

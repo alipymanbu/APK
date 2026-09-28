@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Skit 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2ea89f507f38](https://pan.quark.cn/s/2ea89f507f38)
+> **Skit 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/14dc04810ec4](https://pan.quark.cn/s/14dc04810ec4)
 
 ---
 

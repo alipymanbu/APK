@@ -5,7 +5,7 @@
 ---
 
 > [!IMPORTANT]
-> **AudioLab 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/72b1b40df72a](https://pan.quark.cn/s/72b1b40df72a)
+> **AudioLab 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/9a70a28f32cf](https://pan.quark.cn/s/9a70a28f32cf)
 
 ---
 

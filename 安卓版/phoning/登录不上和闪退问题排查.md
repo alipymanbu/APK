@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Phoning 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a12ea1214362](https://pan.quark.cn/s/a12ea1214362)
+> **Phoning 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a6310ab21362](https://pan.quark.cn/s/a6310ab21362)
 
 ---
 

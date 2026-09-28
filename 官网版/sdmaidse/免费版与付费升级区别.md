@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **SD Maid SE 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/977a3f9450f1](https://pan.quark.cn/s/977a3f9450f1)
+> **SD Maid SE 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a3159036deba](https://pan.quark.cn/s/a3159036deba)
 
 ---
 

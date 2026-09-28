@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **XRecorder 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0c37018a767a](https://pan.quark.cn/s/0c37018a767a)
+> **XRecorder 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8a5d5cb58f9b](https://pan.quark.cn/s/8a5d5cb58f9b)
 
 ---
 
@@ -14,7 +14,7 @@ XRecorder 除了录屏还带直播推流能力（走 RTMP 协议，YouTube、Twi
 
 ## 一、开播前的三件事
 
-1. **装好应用并授权**：还没装的话，从上方 [XRecorder 安装文件资源（夸克网盘）](https://pan.quark.cn/s/0c37018a767a)先装好，权限按 [下载与安装教程.md](下载与安装教程.md) 第三节给齐。
+1. **装好应用并授权**：还没装的话，从上方 [XRecorder 安装文件资源（夸克网盘）](https://pan.quark.cn/s/8a5d5cb58f9b)先装好，权限按 [下载与安装教程.md](下载与安装教程.md) 第三节给齐。
 2. **平台侧开通直播**：以 YouTube 为例，新账号的直播功能要单独开通，启用后一般还需等待最长 24 小时才可用。没开通前推流地址拿了也没用，先去 YouTube Studio 把直播功能打开。
 3. **网络**：直播比录屏吃网络得多，优先用稳定的 Wi-Fi；推流中切后台、锁屏都可能中断，尽量保持亮屏充电。
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **ShizukuRunner 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8b5547f19003](https://pan.quark.cn/s/8b5547f19003)
+> **ShizukuRunner 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/31ef4b96f4e9](https://pan.quark.cn/s/31ef4b96f4e9)
 
 ---
 

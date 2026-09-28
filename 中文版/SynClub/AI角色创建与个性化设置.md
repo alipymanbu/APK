@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **SynClub 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d088eb9f1b2a](https://pan.quark.cn/s/d088eb9f1b2a)
+> **SynClub 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/13d9c294cf9e](https://pan.quark.cn/s/13d9c294cf9e)
 
 ---
 

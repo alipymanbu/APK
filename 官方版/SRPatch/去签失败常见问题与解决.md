@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **SRPatch 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2bd8aacc74a0](https://pan.quark.cn/s/2bd8aacc74a0)
+> **SRPatch 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f9aef4cb1609](https://pan.quark.cn/s/f9aef4cb1609)
 
 ---
 

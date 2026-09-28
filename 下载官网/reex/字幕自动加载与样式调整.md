@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Reex 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f6e8601148a0](https://pan.quark.cn/s/f6e8601148a0)
+> **Reex 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b7a06efdd9cc](https://pan.quark.cn/s/b7a06efdd9cc)
 
 ---
 

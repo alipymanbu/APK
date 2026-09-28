@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **GeminiAI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/fb4fe6c04390](https://pan.quark.cn/s/fb4fe6c04390)
+> **GeminiAI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a6b4c1ac4358](https://pan.quark.cn/s/a6b4c1ac4358)
 
 ---
 

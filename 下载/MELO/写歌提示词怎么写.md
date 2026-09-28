@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **MELO 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/631c6ea2f1d5](https://pan.quark.cn/s/631c6ea2f1d5)
+> **MELO 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/be5eb5a8e13e](https://pan.quark.cn/s/be5eb5a8e13e)
 
 ---
 

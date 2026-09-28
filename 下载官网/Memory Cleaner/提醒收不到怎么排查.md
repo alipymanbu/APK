@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Memory Helper 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d3733ff456a7](https://pan.quark.cn/s/d3733ff456a7)
+> **Memory Helper 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b1b4bbd37f23](https://pan.quark.cn/s/b1b4bbd37f23)
 
 ---
 

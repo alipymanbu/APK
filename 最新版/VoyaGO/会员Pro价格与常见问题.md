@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **VoyaGO 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3ef231510534](https://pan.quark.cn/s/3ef231510534)
+> **VoyaGO 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/78ef48096279](https://pan.quark.cn/s/78ef48096279)
 
 ---
 
@@ -37,7 +37,7 @@ VoyaGO 免费下载，另有应用内购买的 Pro 订阅档位。下面第一�
 
 ### 安装包从哪里拿？
 
-[VoyaGO 安装文件资源（夸克网盘）](https://pan.quark.cn/s/3ef231510534)，转存后下载 `VoyaGO_v1.1.2.apk`，完整步骤见 [下载与安装教程.md](下载与安装教程.md)。
+[VoyaGO 安装文件资源（夸克网盘）](https://pan.quark.cn/s/78ef48096279)，转存后下载 `VoyaGO_v1.1.2.apk`，完整步骤见 [下载与安装教程.md](下载与安装教程.md)。
 
 ### 攻略链接提取不出内容？
 

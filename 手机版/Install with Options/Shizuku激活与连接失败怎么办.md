@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Install with Options 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d1711852fb97](https://pan.quark.cn/s/d1711852fb97)
+> **Install with Options 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5fbe0c775706](https://pan.quark.cn/s/5fbe0c775706)
 
 ---
 

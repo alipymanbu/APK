@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **uuyk 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b27132f1fb5b](https://pan.quark.cn/s/b27132f1fb5b)
+> **uuyk 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/cff58cdaff32](https://pan.quark.cn/s/cff58cdaff32)
 
 ---
 

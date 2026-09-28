@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Wolfram|Alpha 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/203f7ad0d141](https://pan.quark.cn/s/203f7ad0d141)
+> **Wolfram|Alpha 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/623546e5de2c](https://pan.quark.cn/s/623546e5de2c)
 
 ---
 

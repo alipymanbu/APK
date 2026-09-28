@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **ArtFlow 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/64a746aa9a5f](https://pan.quark.cn/s/64a746aa9a5f)
+> **ArtFlow 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ec11dbed99af](https://pan.quark.cn/s/ec11dbed99af)
 
 ---
 

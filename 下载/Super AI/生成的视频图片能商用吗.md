@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **SuperAI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c94f49d58686](https://pan.quark.cn/s/c94f49d58686)
+> **SuperAI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e84053134a6a](https://pan.quark.cn/s/e84053134a6a)
 
 ---
 

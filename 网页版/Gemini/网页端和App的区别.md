@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Gemini 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/87da0cab380c](https://pan.quark.cn/s/87da0cab380c)
+> **Gemini 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/84b8f73aaefe](https://pan.quark.cn/s/84b8f73aaefe)
 
 ---
 

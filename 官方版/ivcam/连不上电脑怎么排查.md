@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **iVCam 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5a660170e8ca](https://pan.quark.cn/s/5a660170e8ca)
+> **iVCam 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/32c8c49d7e88](https://pan.quark.cn/s/32c8c49d7e88)
 
 ---
 

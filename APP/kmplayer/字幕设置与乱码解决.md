@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **KMPlayer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8bff97ac5031](https://pan.quark.cn/s/8bff97ac5031)
+> **KMPlayer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6faa2922ec81](https://pan.quark.cn/s/6faa2922ec81)
 
 ---
 

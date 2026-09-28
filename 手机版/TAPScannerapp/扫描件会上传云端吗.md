@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **TapScanner 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/df40c1ef49eb](https://pan.quark.cn/s/df40c1ef49eb)
+> **TapScanner 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/dcc98e00aa40](https://pan.quark.cn/s/dcc98e00aa40)
 
 ---
 

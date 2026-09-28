@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **quackai 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/729ecfd7e83a](https://pan.quark.cn/s/729ecfd7e83a)
+> **quackai 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5381ddb37f09](https://pan.quark.cn/s/5381ddb37f09)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Simeji 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/cd8511e9d97d](https://pan.quark.cn/s/cd8511e9d97d)
+> **Simeji 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c27b53d30649](https://pan.quark.cn/s/c27b53d30649)
 
 ---
 

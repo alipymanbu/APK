@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **komoot 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6bbc7686d6a9](https://pan.quark.cn/s/6bbc7686d6a9)
+> **komoot 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/13dcfee552fb](https://pan.quark.cn/s/13dcfee552fb)
 
 ---
 

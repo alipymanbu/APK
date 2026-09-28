@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Emochi 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c488fecf0aee](https://pan.quark.cn/s/c488fecf0aee)
+> **Emochi 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c1af75554f85](https://pan.quark.cn/s/c1af75554f85)
 
 ---
 

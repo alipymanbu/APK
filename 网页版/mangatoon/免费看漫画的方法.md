@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **MangaToon 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1089c45b1b29](https://pan.quark.cn/s/1089c45b1b29)
+> **MangaToon 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/dc36ab4f6696](https://pan.quark.cn/s/dc36ab4f6696)
 
 ---
 

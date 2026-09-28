@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **UniClaw 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/29a8b765b21d](https://pan.quark.cn/s/29a8b765b21d)
+> **UniClaw 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/518b714c21c6](https://pan.quark.cn/s/518b714c21c6)
 
 ---
 

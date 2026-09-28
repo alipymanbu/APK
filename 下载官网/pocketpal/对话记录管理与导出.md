@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **pocketpal 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/874bdfffdf93](https://pan.quark.cn/s/874bdfffdf93)
+> **pocketpal 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/360abcc2b6dc](https://pan.quark.cn/s/360abcc2b6dc)
 
 ---
 

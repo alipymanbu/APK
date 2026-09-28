@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **toolkit 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3ba8781c004d](https://pan.quark.cn/s/3ba8781c004d)
+> **toolkit 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/382df1f991a7](https://pan.quark.cn/s/382df1f991a7)
 
 ---
 

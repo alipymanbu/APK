@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Kazumi 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7cb39b8d5d92](https://pan.quark.cn/s/7cb39b8d5d92)
+> **Kazumi 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8521d759d695](https://pan.quark.cn/s/8521d759d695)
 
 ---
 

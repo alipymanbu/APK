@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Blacklyte 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2d2262da8626](https://pan.quark.cn/s/2d2262da8626)
+> **Blacklyte 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6c23ab994f9e](https://pan.quark.cn/s/6c23ab994f9e)
 
 ---
 

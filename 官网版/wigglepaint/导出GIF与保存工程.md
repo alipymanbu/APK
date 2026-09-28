@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **WigglyPaint 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/51b5b40d41d4](https://pan.quark.cn/s/51b5b40d41d4)
+> **WigglyPaint 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/71a91abbafa3](https://pan.quark.cn/s/71a91abbafa3)
 
 ---
 

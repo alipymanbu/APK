@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Tagoo 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/efb76b072dac](https://pan.quark.cn/s/efb76b072dac)
+> **Tagoo 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c0721656cd67](https://pan.quark.cn/s/c0721656cd67)
 
 ---
 

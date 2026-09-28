@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **APKUpdater 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/aa296b79807d](https://pan.quark.cn/s/aa296b79807d)
+> **APKUpdater 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4ecf8dc7a03a](https://pan.quark.cn/s/4ecf8dc7a03a)
 
 ---
 

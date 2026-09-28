@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Lawnchair 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/620927d0940f](https://pan.quark.cn/s/620927d0940f)
+> **Lawnchair 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3ea9407ada2c](https://pan.quark.cn/s/3ea9407ada2c)
 
 ---
 
@@ -42,7 +42,7 @@ Nova 的所有权这几年换了几次手：2022 年被 Branch Metrics 收购，
 
 ## 四、费用与获取方式
 
-- **Lawnchair**：全功能免费、无内购；渠道取舍见 [Nightly与Play版怎么选.md](Nightly与Play版怎么选.md)。要装本文说的这款，可以从 [Lawnchair 安装文件资源（夸克网盘）](https://pan.quark.cn/s/620927d0940f) 拿。
+- **Lawnchair**：全功能免费、无内购；渠道取舍见 [Nightly与Play版怎么选.md](Nightly与Play版怎么选.md)。要装本文说的这款，可以从 [Lawnchair 安装文件资源（夸克网盘）](https://pan.quark.cn/s/3ea9407ada2c) 拿。
 - **Nova**：基础功能免费，完整功能靠 Prime 内购；第三方商店页核对显示其标注"包含广告"（2026 年 9 月，以商店当时显示为准）。
 
 判据其实就一条：你要的是"长得像原生、但比原生能调"，还是"定制到骨子里"。前者 Lawnchair 走得最顺，后者 Nova 积累最深——代价与近况如上，自己权衡。

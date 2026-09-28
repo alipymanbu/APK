@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **qnet 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4aba7244212e](https://pan.quark.cn/s/4aba7244212e)
+> **qnet 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7c6cc0c13373](https://pan.quark.cn/s/7c6cc0c13373)
 
 ---
 

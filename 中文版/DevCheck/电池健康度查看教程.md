@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **DevCheck 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/79a37a15c180](https://pan.quark.cn/s/79a37a15c180)
+> **DevCheck 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0f6c36630d31](https://pan.quark.cn/s/0f6c36630d31)
 
 ---
 

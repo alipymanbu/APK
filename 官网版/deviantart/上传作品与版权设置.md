@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **DeviantArt 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0c36c88a4568](https://pan.quark.cn/s/0c36c88a4568)
+> **DeviantArt 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2916c1620a15](https://pan.quark.cn/s/2916c1620a15)
 
 ---
 

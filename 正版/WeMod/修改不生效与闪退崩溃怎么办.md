@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **WeMod 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0aeb494c59a0](https://pan.quark.cn/s/0aeb494c59a0)
+> **WeMod 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1ce29c6ffeec](https://pan.quark.cn/s/1ce29c6ffeec)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Stellarium 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3ed1b05a1954](https://pan.quark.cn/s/3ed1b05a1954)
+> **Stellarium 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/934c05a46df0](https://pan.quark.cn/s/934c05a46df0)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **OpenHub 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f180057aeba7](https://pan.quark.cn/s/f180057aeba7)
+> **OpenHub 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1865eb8d1c57](https://pan.quark.cn/s/1865eb8d1c57)
 
 ---
 
@@ -46,4 +46,4 @@
 
 ## 四、决定试 OpenHub 的话
 
-安装包从 [OpenHub 安装文件资源（夸克网盘）](https://pan.quark.cn/s/f180057aeba7) 转存获取，渠道核对与安装步骤见 [下载与安装教程.md](下载与安装教程.md)；装好后登录授权的流程见 [登录与多账号切换.md](登录与多账号切换.md)，日常高频的仓库浏览与代码阅读操作见 [仓库浏览与代码阅读.md](仓库浏览与代码阅读.md)。
+安装包从 [OpenHub 安装文件资源（夸克网盘）](https://pan.quark.cn/s/1865eb8d1c57) 转存获取，渠道核对与安装步骤见 [下载与安装教程.md](下载与安装教程.md)；装好后登录授权的流程见 [登录与多账号切换.md](登录与多账号切换.md)，日常高频的仓库浏览与代码阅读操作见 [仓库浏览与代码阅读.md](仓库浏览与代码阅读.md)。

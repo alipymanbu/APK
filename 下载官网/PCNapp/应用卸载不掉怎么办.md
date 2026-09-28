@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **PCNapp 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1fc8baddbbd5](https://pan.quark.cn/s/1fc8baddbbd5)
+> **PCNapp 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/35c9feb7ae0f](https://pan.quark.cn/s/35c9feb7ae0f)
 
 ---
 

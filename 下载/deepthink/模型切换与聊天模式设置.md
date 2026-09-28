@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **deepthink 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/24a49df462da](https://pan.quark.cn/s/24a49df462da)
+> **deepthink 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a0510fe9cac4](https://pan.quark.cn/s/a0510fe9cac4)
 
 ---
 

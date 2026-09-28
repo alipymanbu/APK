@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **AnimeFlow 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f3a44a844073](https://pan.quark.cn/s/f3a44a844073)
+> **AnimeFlow 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/54264c09c1f3](https://pan.quark.cn/s/54264c09c1f3)
 
 ---
 

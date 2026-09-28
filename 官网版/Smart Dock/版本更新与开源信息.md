@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Smart Dock 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6e5a1d3cef28](https://pan.quark.cn/s/6e5a1d3cef28)
+> **Smart Dock 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/bfe072753368](https://pan.quark.cn/s/bfe072753368)
 
 ---
 

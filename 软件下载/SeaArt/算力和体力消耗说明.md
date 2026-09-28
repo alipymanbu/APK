@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **SeaArt 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/03c0b74c2add](https://pan.quark.cn/s/03c0b74c2add)
+> **SeaArt 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6b9866731271](https://pan.quark.cn/s/6b9866731271)
 
 ---
 

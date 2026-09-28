@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **AstroBox 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/04ef5aa4ed85](https://pan.quark.cn/s/04ef5aa4ed85)
+> **AstroBox 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8a01ff89f9df](https://pan.quark.cn/s/8a01ff89f9df)
 
 ---
 

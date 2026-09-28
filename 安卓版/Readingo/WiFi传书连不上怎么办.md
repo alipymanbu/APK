@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Readingo 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8893c2fa334e](https://pan.quark.cn/s/8893c2fa334e)
+> **Readingo 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8564ec61e7ef](https://pan.quark.cn/s/8564ec61e7ef)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **StarTravel 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4f5e3158e41b](https://pan.quark.cn/s/4f5e3158e41b)
+> **StarTravel 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ab03be007f5d](https://pan.quark.cn/s/ab03be007f5d)
 
 ---
 

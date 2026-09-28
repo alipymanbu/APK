@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **GameKee 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a8cf0fcd45ac](https://pan.quark.cn/s/a8cf0fcd45ac)
+> **GameKee 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/21f76be8b2fe](https://pan.quark.cn/s/21f76be8b2fe)
 
 ---
 

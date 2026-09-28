@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **NipaPlay 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e70bde358e19](https://pan.quark.cn/s/e70bde358e19)
+> **NipaPlay 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/436508f0a241](https://pan.quark.cn/s/436508f0a241)
 
 ---
 

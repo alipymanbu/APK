@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **ShizuTools 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/436b57ffbc12](https://pan.quark.cn/s/436b57ffbc12)
+> **ShizuTools 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/171f707453ac](https://pan.quark.cn/s/171f707453ac)
 
 ---
 

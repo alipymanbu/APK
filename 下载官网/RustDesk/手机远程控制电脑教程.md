@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **RustDesk 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/729b4a3aecb7](https://pan.quark.cn/s/729b4a3aecb7)
+> **RustDesk 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/dbeeafb455f3](https://pan.quark.cn/s/dbeeafb455f3)
 
 ---
 

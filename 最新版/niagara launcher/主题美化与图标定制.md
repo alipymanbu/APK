@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Niagara Launcher 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/04d1c13967c5](https://pan.quark.cn/s/04d1c13967c5)
+> **Niagara Launcher 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6fcbed134d94](https://pan.quark.cn/s/6fcbed134d94)
 
 ---
 

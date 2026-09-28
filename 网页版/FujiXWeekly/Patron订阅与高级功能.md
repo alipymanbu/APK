@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Fuji X Weekly 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d9f4263cf411](https://pan.quark.cn/s/d9f4263cf411)
+> **Fuji X Weekly 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/63cb71ca04f2](https://pan.quark.cn/s/63cb71ca04f2)
 
 ---
 

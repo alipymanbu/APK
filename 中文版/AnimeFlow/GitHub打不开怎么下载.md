@@ -6,13 +6,13 @@
 ---
 
 > [!IMPORTANT]
-> **AnimeFlow 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f3a44a844073](https://pan.quark.cn/s/f3a44a844073)
+> **AnimeFlow 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/54264c09c1f3](https://pan.quark.cn/s/54264c09c1f3)
 
 ---
 
 ## 一、按这个顺序试
 
-1. **直接用网盘收录的版本**：如果目标只是「装一个能用的」，这份 **[AnimeFlow 安装文件资源（夸克网盘）](https://pan.quark.cn/s/f3a44a844073)** 最省事，转存后下载即可，版本与包参数见 [下载与安装教程.md](下载与安装教程.md)；
+1. **直接用网盘收录的版本**：如果目标只是「装一个能用的」，这份 **[AnimeFlow 安装文件资源（夸克网盘）](https://pan.quark.cn/s/54264c09c1f3)** 最省事，转存后下载即可，版本与包参数见 [下载与安装教程.md](下载与安装教程.md)；
 2. **官方 Gitee 镜像**：开发者在国内代码托管平台 Gitee 上维护着同步镜像 `https://gitee.com/anime-flow/AnimeFlow`，GitHub 抽风时源码、README 与版本说明可以从这里看；
 3. **换时段再试 GitHub Releases**：`https://github.com/openAnimeFlow/AnimeFlow/releases` 的可访问性随网络环境波动明显，隔一会儿再试常常就通了。
 

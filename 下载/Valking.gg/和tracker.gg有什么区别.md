@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Valking.gg 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0b1292f1ec9e](https://pan.quark.cn/s/0b1292f1ec9e)
+> **Valking.gg 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/29b7276e39b2](https://pan.quark.cn/s/29b7276e39b2)
 
 ---
 
@@ -38,4 +38,4 @@
 
 ## 四、选定用 Valking.gg 之后
 
-安装包从哪拿、怎么装、怎么登，见[下载与安装教程.md](下载与安装教程.md)：Valking.gg 安装文件资源（夸克网盘）[https://pan.quark.cn/s/0b1292f1ec9e](https://pan.quark.cn/s/0b1292f1ec9e)。装完遇到查不到数据、登录问题，回看[常见问题与排查.md](常见问题与排查.md)。
+安装包从哪拿、怎么装、怎么登，见[下载与安装教程.md](下载与安装教程.md)：Valking.gg 安装文件资源（夸克网盘）[https://pan.quark.cn/s/29b7276e39b2](https://pan.quark.cn/s/29b7276e39b2)。装完遇到查不到数据、登录问题，回看[常见问题与排查.md](常见问题与排查.md)。

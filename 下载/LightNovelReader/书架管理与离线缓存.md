@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **LightNovelReader 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7bce9a01b1dc](https://pan.quark.cn/s/7bce9a01b1dc)
+> **LightNovelReader 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d9671706749b](https://pan.quark.cn/s/d9671706749b)
 
 ---
 

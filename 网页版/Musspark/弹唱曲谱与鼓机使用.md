@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Musspark 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c91c73e2f485](https://pan.quark.cn/s/c91c73e2f485)
+> **Musspark 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1bc7672b2748](https://pan.quark.cn/s/1bc7672b2748)
 
 ---
 

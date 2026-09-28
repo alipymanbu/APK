@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **SafeHaven 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a5c44e23901b](https://pan.quark.cn/s/a5c44e23901b)
+> **SafeHaven 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a93bc126a702](https://pan.quark.cn/s/a93bc126a702)
 
 ---
 

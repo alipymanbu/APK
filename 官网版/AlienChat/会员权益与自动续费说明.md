@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **AlienChat 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d62ba3e159bd](https://pan.quark.cn/s/d62ba3e159bd)
+> **AlienChat 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f2c83143f736](https://pan.quark.cn/s/f2c83143f736)
 
 ---
 

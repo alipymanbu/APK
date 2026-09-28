@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **FiguRobot 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f9e18a00f045](https://pan.quark.cn/s/f9e18a00f045)
+> **FiguRobot 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/40e29cf587da](https://pan.quark.cn/s/40e29cf587da)
 
 ---
 

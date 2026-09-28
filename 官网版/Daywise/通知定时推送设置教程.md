@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Daywise 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/09373d7f5a36](https://pan.quark.cn/s/09373d7f5a36)
+> **Daywise 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4ae9ba4152fb](https://pan.quark.cn/s/4ae9ba4152fb)
 
 ---
 

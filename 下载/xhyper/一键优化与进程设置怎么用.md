@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **XHyper 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b7820085f6c5](https://pan.quark.cn/s/b7820085f6c5)
+> **XHyper 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5945cdc629c6](https://pan.quark.cn/s/5945cdc629c6)
 
 ---
 

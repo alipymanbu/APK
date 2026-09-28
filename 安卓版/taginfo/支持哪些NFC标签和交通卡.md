@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **taginfo 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/15e32b7370fe](https://pan.quark.cn/s/15e32b7370fe)
+> **taginfo 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7eea6c09f67d](https://pan.quark.cn/s/7eea6c09f67d)
 
 ---
 

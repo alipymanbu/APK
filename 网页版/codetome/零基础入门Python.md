@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **CodeTome 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b15188dc655d](https://pan.quark.cn/s/b15188dc655d)
+> **CodeTome 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6b3384f3d278](https://pan.quark.cn/s/6b3384f3d278)
 
 ---
 

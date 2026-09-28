@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **BubbleUPnP 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/118936c1ffd6](https://pan.quark.cn/s/118936c1ffd6)
+> **BubbleUPnP 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/df9749aa59d4](https://pan.quark.cn/s/df9749aa59d4)
 
 ---
 

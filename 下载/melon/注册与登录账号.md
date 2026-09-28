@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Melon 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/fab10023b411](https://pan.quark.cn/s/fab10023b411)
+> **Melon 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4dd0ddba76c7](https://pan.quark.cn/s/4dd0ddba76c7)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **twime 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b1909d6245e6](https://pan.quark.cn/s/b1909d6245e6)
+> **twime 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a082b9f9399b](https://pan.quark.cn/s/a082b9f9399b)
 
 ---
 
@@ -45,7 +45,7 @@ twime 和 talkmaker 都是「捡手机文学创作 + AI 角色互动」类应用
 
 ## 五、怎么选
 
-- 你的主要动作是**发 twi 体 / 论坛体帖子、刷 MJG 推文** → 选 twime，装法见 [下载与安装教程.md](下载与安装教程.md)（twime 安装文件资源（夸克网盘）：[https://pan.quark.cn/s/b1909d6245e6](https://pan.quark.cn/s/b1909d6245e6)）。
+- 你的主要动作是**发 twi 体 / 论坛体帖子、刷 MJG 推文** → 选 twime，装法见 [下载与安装教程.md](下载与安装教程.md)（twime 安装文件资源（夸克网盘）：[https://pan.quark.cn/s/a082b9f9399b](https://pan.quark.cn/s/a082b9f9399b)）。
 - 你的主要动作是**和角色长聊、需要语音与导出对话** → 把 talkmaker 也装来各试几天再定，这类主观体验光看参数定不了。
 - 两个都装也常见：创作发帖用一个、纯聊天用另一个，两个应用账号体系互不相干。
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **PVESO 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c0de4bc0855a](https://pan.quark.cn/s/c0de4bc0855a)
+> **PVESO 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/cb885cd437d8](https://pan.quark.cn/s/cb885cd437d8)
 
 ---
 

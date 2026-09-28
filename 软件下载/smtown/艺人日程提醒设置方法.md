@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **SMTOWN 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1fb59cee5059](https://pan.quark.cn/s/1fb59cee5059)
+> **SMTOWN 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ee4160b6cfaf](https://pan.quark.cn/s/ee4160b6cfaf)
 
 ---
 

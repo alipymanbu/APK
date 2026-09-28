@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Beyond LIVE 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/df1002f69ad6](https://pan.quark.cn/s/df1002f69ad6)
+> **Beyond LIVE 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/771680b3e2c0](https://pan.quark.cn/s/771680b3e2c0)
 
 ---
 

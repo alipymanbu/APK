@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Yippi 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/189b2e8484f3](https://pan.quark.cn/s/189b2e8484f3)
+> **Yippi 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7075b3c8c5e4](https://pan.quark.cn/s/7075b3c8c5e4)
 
 ---
 

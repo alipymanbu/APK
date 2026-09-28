@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Notability 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/cc07425ca2c7](https://pan.quark.cn/s/cc07425ca2c7)
+> **Notability 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/9df367e7ef2e](https://pan.quark.cn/s/9df367e7ef2e)
 
 ---
 

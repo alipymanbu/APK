@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **iEterm 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/9c47079eb82d](https://pan.quark.cn/s/9c47079eb82d)
+> **iEterm 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/36ac11960300](https://pan.quark.cn/s/36ac11960300)
 
 ---
 

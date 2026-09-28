@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **QPython 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/98105e5cb4df](https://pan.quark.cn/s/98105e5cb4df)
+> **QPython 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b6621ee1e4d2](https://pan.quark.cn/s/b6621ee1e4d2)
 
 ---
 

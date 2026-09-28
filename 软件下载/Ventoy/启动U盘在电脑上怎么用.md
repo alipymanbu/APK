@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Ventoy 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/029127c003a0](https://pan.quark.cn/s/029127c003a0)
+> **Ventoy 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3dc90dc22c5c](https://pan.quark.cn/s/3dc90dc22c5c)
 
 ---
 

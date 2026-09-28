@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **MeloD 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/248860dd13b4](https://pan.quark.cn/s/248860dd13b4)
+> **MeloD 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/bce41b902449](https://pan.quark.cn/s/bce41b902449)
 
 ---
 

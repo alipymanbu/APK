@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **ApkInstaller 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/20d1729fc4fd](https://pan.quark.cn/s/20d1729fc4fd)
+> **ApkInstaller 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8d188fa090d5](https://pan.quark.cn/s/8d188fa090d5)
 
 ---
 

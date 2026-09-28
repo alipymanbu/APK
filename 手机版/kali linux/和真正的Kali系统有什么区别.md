@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Learn Kali Linux 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/98a282504e4c](https://pan.quark.cn/s/98a282504e4c)
+> **Learn Kali Linux 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8b93e485059b](https://pan.quark.cn/s/8b93e485059b)
 
 ---
 

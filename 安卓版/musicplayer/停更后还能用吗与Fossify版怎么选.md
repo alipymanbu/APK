@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Simple Music Player 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c91a9106b2be](https://pan.quark.cn/s/c91a9106b2be)
+> **Simple Music Player 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/47162c79a6e1](https://pan.quark.cn/s/47162c79a6e1)
 
 ---
 
@@ -57,6 +57,6 @@ Fossify 官网的原话是「SimpleMobileTools 已停止维护（discontinued / 
 
 ## 四、不建议做的事
 
-- **不要从来路不明的渠道获取来路不明的安装包**：本套文档只走官方与自有网盘的正常安装包（[Simple Music Player 安装文件资源（夸克网盘）](https://pan.quark.cn/s/c91a9106b2be)），其他渠道的包有没有被改过，你无从核实，风险自负；
+- **不要从来路不明的渠道获取来路不明的安装包**：本套文档只走官方与自有网盘的正常安装包（[Simple Music Player 安装文件资源（夸克网盘）](https://pan.quark.cn/s/47162c79a6e1)），其他渠道的包有没有被改过，你无从核实，风险自负；
 - **不要因为「停更」就恐慌卸载**：判断依据在第三节，够用就继续用；
 - **不要同时装一堆同类播放器**：它们会同时扫描媒体库、抢音频焦点，表现出来就是「歌单重复显示」「播放自己切歌」，排查起来反而绕（见 [歌曲不显示与播放异常怎么办.md](歌曲不显示与播放异常怎么办.md)）。

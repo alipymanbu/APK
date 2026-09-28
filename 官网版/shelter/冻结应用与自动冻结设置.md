@@ -5,7 +5,7 @@
 ---
 
 > [!IMPORTANT]
-> **Shelter 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/9d7b63b87bb2](https://pan.quark.cn/s/9d7b63b87bb2)
+> **Shelter 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4d7233529df4](https://pan.quark.cn/s/4d7233529df4)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **HelloAI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a09d91633fbb](https://pan.quark.cn/s/a09d91633fbb)
+> **HelloAI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a71c7e6ccaeb](https://pan.quark.cn/s/a71c7e6ccaeb)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Emoke 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c9e93bd4bf70](https://pan.quark.cn/s/c9e93bd4bf70)
+> **Emoke 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/28954acd2a71](https://pan.quark.cn/s/28954acd2a71)
 
 ---
 

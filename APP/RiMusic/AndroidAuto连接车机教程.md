@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **RiMusic 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3a6642b9da3a](https://pan.quark.cn/s/3a6642b9da3a)
+> **RiMusic 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/9822c0485bd7](https://pan.quark.cn/s/9822c0485bd7)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **TaskManager 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/80f324d3d40a](https://pan.quark.cn/s/80f324d3d40a)
+> **TaskManager 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6a244762d8f1](https://pan.quark.cn/s/6a244762d8f1)
 
 ---
 

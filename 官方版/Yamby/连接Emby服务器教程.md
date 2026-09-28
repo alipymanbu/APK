@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Yamby 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e6c2aeaf9ade](https://pan.quark.cn/s/e6c2aeaf9ade)
+> **Yamby 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7152c7d40d9b](https://pan.quark.cn/s/7152c7d40d9b)
 
 ---
 

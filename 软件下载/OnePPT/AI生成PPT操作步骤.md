@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **OnePPT 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2b0d3fa0e4eb](https://pan.quark.cn/s/2b0d3fa0e4eb)
+> **OnePPT 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5f22f94c5057](https://pan.quark.cn/s/5f22f94c5057)
 
 ---
 

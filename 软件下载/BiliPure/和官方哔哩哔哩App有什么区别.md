@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **BiliPure 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d8ef8be45399](https://pan.quark.cn/s/d8ef8be45399)
+> **BiliPure 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3d576a5bf1f9](https://pan.quark.cn/s/3d576a5bf1f9)
 
 ---
 

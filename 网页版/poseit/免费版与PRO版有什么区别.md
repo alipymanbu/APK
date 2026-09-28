@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Poseit 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c4486d848d55](https://pan.quark.cn/s/c4486d848d55)
+> **Poseit 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c0498d580cdc](https://pan.quark.cn/s/c0498d580cdc)
 
 ---
 

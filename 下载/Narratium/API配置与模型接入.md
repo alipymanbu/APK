@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Narratium 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4ebc7f4f9825](https://pan.quark.cn/s/4ebc7f4f9825)
+> **Narratium 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5d71a65eb63e](https://pan.quark.cn/s/5d71a65eb63e)
 
 ---
 

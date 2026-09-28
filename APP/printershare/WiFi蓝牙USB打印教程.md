@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **PrinterShare 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/441c97f0969a](https://pan.quark.cn/s/441c97f0969a)
+> **PrinterShare 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3bb3941bae74](https://pan.quark.cn/s/3bb3941bae74)
 
 ---
 

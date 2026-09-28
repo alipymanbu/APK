@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **QQPro 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7e5c120365a0](https://pan.quark.cn/s/7e5c120365a0)
+> **QQPro 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/9a9f5515bc7a](https://pan.quark.cn/s/9a9f5515bc7a)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Cxxdroid 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/374037e46ab9](https://pan.quark.cn/s/374037e46ab9)
+> **Cxxdroid 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/24b113dff816](https://pan.quark.cn/s/24b113dff816)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **ReadEra 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/a5fe6609f485](https://pan.quark.cn/s/a5fe6609f485)
+> **ReadEra 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6a3171b91b4a](https://pan.quark.cn/s/6a3171b91b4a)
 
 ---
 

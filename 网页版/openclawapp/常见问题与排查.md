@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **OpenClaw 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/644eda59f550](https://pan.quark.cn/s/644eda59f550)
+> **OpenClaw 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6235d6c4f99c](https://pan.quark.cn/s/6235d6c4f99c)
 
 ---
 

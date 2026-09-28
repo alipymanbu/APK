@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **hotmail 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3c134e6a38f2](https://pan.quark.cn/s/3c134e6a38f2)
+> **hotmail 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/688906ab0727](https://pan.quark.cn/s/688906ab0727)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Suno AI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ebe3a096da6d](https://pan.quark.cn/s/ebe3a096da6d)
+> **Suno AI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/496f36972e9b](https://pan.quark.cn/s/496f36972e9b)
 
 ---
 

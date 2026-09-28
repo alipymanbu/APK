@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Lumii 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/30844219d3b8](https://pan.quark.cn/s/30844219d3b8)
+> **Lumii 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1dd1ad4ce4ca](https://pan.quark.cn/s/1dd1ad4ce4ca)
 
 ---
 

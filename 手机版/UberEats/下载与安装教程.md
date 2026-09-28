@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Uber Eats 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6327c31442f9](https://pan.quark.cn/s/6327c31442f9)
+> **Uber Eats 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c42b20c80c37](https://pan.quark.cn/s/c42b20c80c37)
 
 ---
 

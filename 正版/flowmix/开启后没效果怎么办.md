@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Flowmix 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f2b90a749954](https://pan.quark.cn/s/f2b90a749954)
+> **Flowmix 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/da6db9c899a4](https://pan.quark.cn/s/da6db9c899a4)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Vectras VM 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8d150a510f1b](https://pan.quark.cn/s/8d150a510f1b)
+> **Vectras VM 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/51e5c3c31fef](https://pan.quark.cn/s/51e5c3c31fef)
 
 ---
 

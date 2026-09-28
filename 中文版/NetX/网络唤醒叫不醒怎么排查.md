@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **NetX 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/761986d9197e](https://pan.quark.cn/s/761986d9197e)
+> **NetX 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/66c548d8fd0e](https://pan.quark.cn/s/66c548d8fd0e)
 
 ---
 

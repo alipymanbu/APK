@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **WebCat 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/200bf8b4008a](https://pan.quark.cn/s/200bf8b4008a)
+> **WebCat 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/894fd40bde5e](https://pan.quark.cn/s/894fd40bde5e)
 
 ---
 

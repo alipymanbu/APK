@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Kahoot! 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/15076243250e](https://pan.quark.cn/s/15076243250e)
+> **Kahoot! 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/43d1ffbf67b9](https://pan.quark.cn/s/43d1ffbf67b9)
 
 ---
 

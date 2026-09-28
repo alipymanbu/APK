@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **SatDump 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/bdac963bda10](https://pan.quark.cn/s/bdac963bda10)
+> **SatDump 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7baff04586d2](https://pan.quark.cn/s/7baff04586d2)
 
 ---
 

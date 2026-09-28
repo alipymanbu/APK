@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **gamestoday 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4af527bb13e5](https://pan.quark.cn/s/4af527bb13e5)
+> **gamestoday 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7ccb7d65f09a](https://pan.quark.cn/s/7ccb7d65f09a)
 
 ---
 
