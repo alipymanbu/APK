@@ -16,7 +16,7 @@ MMD 圈的资料大多围绕 PC 上的 MikuMikuDance 展开，而安卓上能读
 
 ## 二、PC 版 MikuMikuDance 是什么
 
-MikuMikuDance（圈子里简称 MMD）是免费的 3D 角色动画软件，在 Windows 上运行。你给它载入模型（`.pmd` / `.pmx`）和动作数据（`.vmd`），再调整镜头与灯光，输出的是角色唱跳的动画视频。围绕它形成了完整的配布生态：模型、动作、姿势数据（`.vpd`）大多出自这个圈子，圈内常用的资料站 VPVP wiki 维护着模型数据的汇总页（[w.atwiki.jp/vpvpwiki/pages/65.html](https://w.atwiki.jp/vpvpwiki/pages/65.html)，日语页面）。
+MikuMikuDance（圈子里简称 MMD）是免费的 3D 角色动画软件，在 Windows 上运行。你给它载入模型（`.pmd` / `.pmx`）和动作数据（`.vmd`），再调整镜头与灯光，输出的是角色唱跳的动画视频。围绕它形成了完整的配布生态：模型、动作、姿势数据（`.vpd`）大多出自这个圈子，圈内常用的资料站 VPVP wiki 维护着模型数据的汇总页（[w.atwiki.jp/vpvpwiki/pages/65.html](https://w.atwiki.jp/vpvpwiki/pages/65.html)，日语页面）。想真去下这些数据，[MMD模型与姿势去哪下载.md](MMD模型与姿势去哪下载.md) 汇总了渠道与规矩。
 
 ## 三、MikuMikuPhoto 是什么
 
