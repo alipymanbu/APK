@@ -18,7 +18,7 @@ COMO 是 Cosmo 的粉丝贡献值：你持有 Objekt 小卡，卡会持续产出
 
 ## 二、COMO 从哪来
 
-来源就一条主线：**持有 Objekt**。卡在手，COMO 按卡的类型持续产出，类型不同产量不同。已知的几个锚点：Welcome 卡（WTO）与基础拍摄卡（BTO）各产 1 COMO；idntt 面向新账号发放过的欢迎 ETO（编号 200Z）产 2 COMO。更高等级的卡产量更高，具体数值以 App 内卡片详情页显示为准。
+来源就一条主线：**持有 Objekt**。卡在手，COMO 按卡的类型持续产出，类型不同产量不同（编号与卡等的对应关系见 [Objekt编号与卡等速查.md](Objekt编号与卡等速查.md)）。已知的几个锚点：tripleS/ARTMS 的 FCO 与 idntt 的 WTO/BTO 各产 1 COMO；**自拍类的 DCO 产 2 COMO**；idntt 面向新账号发放过的欢迎 ETO（编号 200Z）产 2 COMO。更高等级的卡产量更高，每张卡的具体产量以 App 内卡片详情页显示为准。
 
 由此推出的实际策略：
 
