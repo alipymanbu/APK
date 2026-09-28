@@ -18,7 +18,14 @@
 2. **不是所有模块都要额外装东西**。只用脚本（`post-fs-data.sh`、`service.sh`）、`sepolicy.rule`、`system.prop` 的模块，装了就能用。
 3. **要改 /system 文件的模块，必须再装一个 metamodule**（例如官方的 `meta-overlayfs`），否则模块里的系统替换不生效。这是 KernelSU 与 Magisk 最大的结构差异：Magisk 把挂载逻辑内置在核心里，KernelSU 把挂载委托给可插拔的 metamodule。全新安装后「模块不工作」，先检查是不是漏了这一步。
 
-metamodule 也从管理器里安装，具体可用版本以官方模块指南（`https://kernelsu.org/zh_CN/guide/metamodule.html`）当时列出的为准。
+metamodule 的使用要点（来源：官方 metamodule 指南）：
+
+- **安装方式与普通模块完全一样**：拿到 `meta-overlayfs.zip` → 管理器模块页的悬浮按钮（➕）→ 选中 zip → 重启。`meta-overlayfs` 是官方参考实现，提供基于 overlayfs 的挂载；
+- **当前生效的是哪个 metamodule**，在管理器模块页里能看到（有特殊标识的条目）；
+- **同一时间只能装一个** metamodule，装第二个会被直接阻止。想换一个的话顺序是：卸载全部常规模块 → 卸载当前 metamodule → 重启 → 装新 metamodule → 重装常规模块 → 再重启；
+- **卸载 metamodule 影响所有模块**：卸掉之后所有模块都不再挂载，直到装上下一个。管理器对这一步有单独的警告提示，别当成普通模块顺手卸了。
+
+具体可用版本以官方模块指南（`https://kernelsu.org/zh_CN/guide/metamodule.html`）当时列出的为准。
 
 ## 二、装模块的完整动作
 
