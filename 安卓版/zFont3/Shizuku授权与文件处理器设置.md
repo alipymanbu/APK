@@ -30,6 +30,17 @@
 
 判断规则：Android 10 及以下什么都不用配；Android 11–12 可以先试 SAF（简单），不行再上 Shizuku；Android 13 及以上直接用 Shizuku。
 
+### 附：SAF 方式的设置与排错
+
+Android 11–12 上 SAF 不用装任何东西，设置路径：zFont 3 → Settings → File Handler → 选 **Storage Access Framework** → 点 Get Started → 系统跳转到主题目录时点底部「Use this folder（使用此文件夹）」。File Handler 状态显示为 Storage Access Framework 即配置完成。
+
+| 现象 | 处理方法 |
+| --- | --- |
+| 一进来就提示 SAF Unsupported | 点 Ignore 忽略提示，勾选 **Use bypass** 后再点 Get Started 试一次；仍不行就换 Shizuku |
+| 「使用此文件夹」按钮点不了 | 切换 Use bypass 的勾选状态（开了就关、关了就开）再试 |
+| 系统更新后 SAF 突然失效 | 回到 File Handler 重新授权一次；反复失效就换 Shizuku，一劳永逸 |
+| Android 13+ 上怎么试都不行 | 预期行为：多数机型在 Android 13 起封锁了 SAF 访问，直接改用 Shizuku |
+
 ## 三、Shizuku 配置步骤
 
 Shizuku 是一个独立的授权工具应用，你需要先装它（Google Play 或 GitHub 的 RikkaApps/Shizuku 发布页都可以下到），然后把手机的开发者选项打开。

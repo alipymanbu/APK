@@ -1,7 +1,7 @@
 # zFont 3 免 root 机型兼容清单
 
 > 本篇按品牌列出 zFont 3 在免 root 状态下换字体的支持范围，以及各地区限制的绕行条件。
-> **相关文档**：[下载与安装教程.md](下载与安装教程.md) · [换字体步骤详解.md](换字体步骤详解.md) · [Shizuku授权与文件处理器设置.md](Shizuku授权与文件处理器设置.md)
+> **相关文档**：[下载与安装教程.md](下载与安装教程.md) · [换字体步骤详解.md](换字体步骤详解.md) · [Shizuku授权与文件处理器设置.md](Shizuku授权与文件处理器设置.md) · [vivo机型换字体方法.md](vivo机型换字体方法.md)
 
 ---
 
@@ -16,12 +16,12 @@
 
 | 品牌 / 系统 | 免 root 支持情况 |
 | --- | --- |
-| 三星（One UI） | 支持范围最广，从 Android 4.4 一路到 Android 14 |
+| 三星（One UI） | 支持范围最广（Android 4.4 至 Android 14），但 2026 年 3 月补丁起免 root 通道被系统签名校验拦下，详见[三星OneUI更新后字体失效怎么办](三星OneUI更新后字体失效怎么办.md) |
 | 小米 / POCO / Redmi（MIUI、HyperOS） | 全版本支持 |
 | 华为（EMUI、HarmonyOS） | 全版本支持 |
 | 荣耀（EMUI、Magic UI） | 全版本支持 |
 | LG（LG UX） | 全版本支持 |
-| vivo / iQOO（Funtouch OS、OriginOS） | Android 12 及以下支持；Android 13 起可能不确定 |
+| vivo / iQOO（Funtouch OS、OriginOS） | Android 12 及以下支持；Android 13 起要按专门方法操作，见[vivo机型换字体方法](vivo机型换字体方法.md) |
 | OPPO / realme（ColorOS） | Android 9 及以下支持；Android 10 起需满足地区条件 |
 | 一加（OxygenOS） | 需设备带主题商店、且设置里能切换地区 |
 | Tecno / Infinix（hiOS、XOS） | 需系统设置里提供「字体」选项 |
