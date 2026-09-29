@@ -25,7 +25,7 @@
 ## 三、未导出 Activity：需要 root（或新版 Shizuku）
 
 - 未导出的 Activity 默认被系统拦下，普通方式启动会报 SecurityException。在 5.4.x 这一代，能启动它们的办法是设备已 root，并在 root 授权弹窗里允许 Activity Manager。
-- 不想 root 的话：官方在 5.5.0 版本加入了 Shizuku 支持，授权后可免 root 启动（Shizuku 本身要用 adb 或无线调试启动，见其项目主页 [github.com/RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)）。要走这条路得先更新到新版本，渠道见 [下载与安装教程.md](下载与安装教程.md)。
+- 不想 root 的话：官方在 5.5.0 版本加入了 Shizuku 支持，授权后可免 root 启动。Shizuku 本身要先跑起来（无线调试配对或连电脑 adb），完整步骤见 [Shizuku 免 root 启动方法.md](Shizuku%20免%20root%20启动方法.md)；这条路要求先更新版本，渠道见 [下载与安装教程.md](下载与安装教程.md)。
 - root 之后仍打不开的情况，多半是 ROM 限制或该页面需要特定权限，逐条排查见 [常见问题与故障排查.md](常见问题与故障排查.md)。
 
 ## 四、几条实操建议
