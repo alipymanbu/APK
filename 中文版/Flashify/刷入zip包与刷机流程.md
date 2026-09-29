@@ -1,7 +1,7 @@
 # Flashify 刷入 zip 包与完整刷机流程
 
 > 本篇讲怎么用 Flashify 刷入 zip 格式的刷机包（ROM、内核补丁、Gapps 等），包括 Wipe 选项怎么勾、多文件队列怎么用，以及刷机前后的检查清单。
-> **相关文档**：[刷入boot与recovery镜像.md](刷入boot与recovery镜像.md) · [备份与恢复教程.md](备份与恢复教程.md) · [常见问题与失败处理.md](常见问题与失败处理.md)
+> **相关文档**：[刷入boot与recovery镜像.md](刷入boot与recovery镜像.md) · [备份与恢复教程.md](备份与恢复教程.md) · [常见问题与失败处理.md](常见问题与失败处理.md) · [需要先装TWRP吗.md](需要先装TWRP吗.md)
 
 ---
 
@@ -20,7 +20,7 @@ zip 刷机包（ROM 整包、内核包、Gapps、各种补丁）和 img 镜像�
 | 是否需要重启完成 | 不需要，系统内直接写入 | 需要重启进 recovery 完成安装 |
 | 典型用途 | 换内核、换 recovery | 刷 ROM、刷补丁、刷 Gapps |
 
-所以动手前先确认：手机上已经装好自定义 recovery（装法见[刷入boot与recovery镜像.md](刷入boot与recovery镜像.md)），zip 包是从可信渠道拿的、确认适配你的机型。
+所以动手前先确认：手机上已经装好自定义 recovery（装法见[刷入boot与recovery镜像.md](刷入boot与recovery镜像.md)，两条安装路径见[需要先装TWRP吗.md](需要先装TWRP吗.md)第三节），zip 包是从可信渠道拿的、确认适配你的机型。
 
 ## 二、刷入步骤
 
