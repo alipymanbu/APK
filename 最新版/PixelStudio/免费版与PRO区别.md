@@ -43,6 +43,7 @@
 
 - 官方在安卓（[Google Play](https://play.google.com/store/apps/details?id=com.PixelStudio)）、Windows（[Microsoft Store](https://apps.microsoft.com/detail/9p7xs7vh1r3j)）、iOS / macOS（[App Store](https://apps.apple.com/app/id1477015249)）都有发行；
 - 跨平台同步走 Google Drive，前提是你设备上的 Google 服务能正常登录访问，不然同步这条路走不通；
+- 同步还受 Google 账号自身状态影响：Drive 的免费配额是 15GB，与 Gmail、Google 相册共享，配额用满后同步会停；遇到「作品没同步过去」时，先确认 Drive 本身能正常同步其他文件、账号没超配额、网络能访问 Google，再回头看应用设置；
 - 同步的对象是 PSP 工程文件，它在各平台之间的通用性见[支持的文件格式.md](支持的文件格式.md)。
 
 ## 五、网盘安装的这份与 PRO 的关系
