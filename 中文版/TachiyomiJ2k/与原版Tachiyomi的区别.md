@@ -16,6 +16,7 @@
 - TachiyomiJ2K 是基于原版代码的衍生版（fork），由 Jays2Kings 维护，Apache 2.0 开源，代码在 [github.com/Jays2Kings/tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K)。
 - 原版的代码由社区以 [Mihon](https://mihon.app/) 的名义继续开发；TachiyomiJ2K 的官方说明也写明「based on the original Tachiyomi, now continued as Mihon」。
 - 这几个应用共用同一套扩展机制和备份格式（`.tachibk`），书架可以在它们之间直接搬家。
+- 原版停更时，官方扩展仓库也一并下架——不管用哪家的衍生版，都要手动添加社区扩展仓库才能装源，见 [扩展列表空白与源失效排查.md](扩展列表空白与源失效排查.md)。
 
 ## 二、TachiyomiJ2K 在原版之上加了什么
 
