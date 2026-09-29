@@ -31,6 +31,7 @@ pip install pandas
 pip install matplotlib
 pip install requests
 pip install beautifulsoup4
+pip install flask
 ```
 
 装完在解释器里 `import` 一下验证：
@@ -39,6 +40,8 @@ pip install beautifulsoup4
 import numpy
 print(numpy.__version__)
 ```
+
+装完能干什么？把 Flask 跑起来、把手机当 Web 服务器用，见[手机上跑Web服务.md](手机上跑Web服务.md)。
 
 ## 三、Pydroid repository plugin：别主动装，弹提示再装
 
