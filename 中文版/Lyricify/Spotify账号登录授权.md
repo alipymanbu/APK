@@ -1,7 +1,7 @@
 # Lyricify 的 Spotify 账号登录授权
 
 > 本篇讲 Lyricify Mobile 首次使用绕不开的那一步：Spotify 账号登录授权。包括正常流程、四种报错的含义与处理、网页登录走不通时的手动 Token 方式。
-> **相关文档**：[下载与安装教程.md](下载与安装教程.md) · [429错误与自定义API配置.md](429错误与自定义API配置.md)
+> **相关文档**：[下载与安装教程.md](下载与安装教程.md) · [429错误与自定义API配置.md](429错误与自定义API配置.md) · [电脑版与手机版怎么选.md](电脑版与手机版怎么选.md)
 
 ---
 
@@ -49,3 +49,10 @@ Lyricify Mobile 没有内置播放器，它显示的是你 Spotify 账号「正�
 ## 五、多设备的授权
 
 同一个 Spotify 账号可以在多台设备上登录 Lyricify Mobile，互相不影响。但如果你在多台设备上高频使用，后续可能更容易撞上 Spotify 的请求限流（429），到时可以为每台设备单独配一个 API Client，做法见 [429错误与自定义API配置.md](429错误与自定义API配置.md)。
+
+## 六、还没有 Spotify 账号
+
+Lyricify Mobile 只认 Spotify 账号，没有账号的话先去 [Spotify 官网](https://www.spotify.com/) 注册一个（注册环节以 Spotify 官方页面为准）。两件事要提前有数：
+
+- Spotify 在中国大陆没有服务，注册和使用都需要自备可用的国际网络环境；
+- 免费账号与 Premium 订阅在使用体验上的差别，见 [电脑版与手机版怎么选.md](电脑版与手机版怎么选.md) 第三节——看歌词不受影响，但撞上限流想配自定义 API Client 时需要 Premium。
