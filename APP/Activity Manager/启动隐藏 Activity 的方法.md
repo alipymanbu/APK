@@ -1,0 +1,36 @@
+# 启动隐藏 Activity 的方法
+
+> 本篇讲怎么用 Activity Manager 找到并启动应用里不对外公开的界面入口，包括需要 root 才能碰的未导出 Activity。
+> **相关文档**：[常见问题与故障排查.md](常见问题与故障排查.md) · [自定义 Intent 与 Manifest 查看.md](自定义%20Intent%20与%20Manifest%20查看.md) · [下载与安装教程.md](下载与安装教程.md)
+
+---
+
+> [!IMPORTANT]
+> **Activity Manager 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/dc74ec1165ee](https://pan.quark.cn/s/dc74ec1165ee)
+
+---
+
+## 一、先弄清楚「Activity」指什么
+
+你日常点开的每个应用页面，背后都对应一个 Activity：设置里的「关于手机」是一个，某个应用深处的「关于我们」页也是一个。应用只把少数几个入口公开（exported，可被外部直接启动），其余都是内部页面，正常方式点不到。Activity Manager 做的就是把这些入口全部列出来，让你逐个点开试。
+
+## 二、启动一个已导出的 Activity
+
+1. 打开 Activity Manager，等应用列表加载完，找到目标应用（可按名称搜索）。
+2. 点应用名，进入它的 Activity 清单。
+3. 清单里标注为导出的那些，直接点就能启动；点了没反应或秒退的，多半是缺参数，处理思路见 [常见问题与故障排查.md](常见问题与故障排查.md)。
+
+典型用途：直达系统设置的某个深层页面（比如某项开发者选项）、打开应用里没有按钮入口的页面。
+
+## 三、未导出 Activity：需要 root（或新版 Shizuku）
+
+- 未导出的 Activity 默认被系统拦下，普通方式启动会报 SecurityException。在 5.4.x 这一代，能启动它们的办法是设备已 root，并在 root 授权弹窗里允许 Activity Manager。
+- 不想 root 的话：官方在 5.5.0 版本加入了 Shizuku 支持，授权后可免 root 启动（Shizuku 本身要用 adb 或无线调试启动，见其项目主页 [github.com/RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)）。要走这条路得先更新到新版本，渠道见 [下载与安装教程.md](下载与安装教程.md)。
+- root 之后仍打不开的情况，多半是 ROM 限制或该页面需要特定权限，逐条排查见 [常见问题与故障排查.md](常见问题与故障排查.md)。
+
+## 四、几条实操建议
+
+- 系统应用的页面先看清名字再点：工程模式、测试菜单这类页面改的是系统级配置，不确定用途就别进去乱动。
+- 应用内部的隐藏页面一般没有风险，但个别页面会直接改数据，点之前留意页面名称。
+- 顺手的入口别每次都进来翻，做成桌面图标一步直达，做法见 [创建桌面快捷方式教程.md](创建桌面快捷方式教程.md)。
+- 需要带参数启动时，用 Intent Builder 自己拼一条更灵活，见 [自定义 Intent 与 Manifest 查看.md](自定义%20Intent%20与%20Manifest%20查看.md)。
