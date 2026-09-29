@@ -1,7 +1,7 @@
 # ShareMoe 和 Pixiv 有什么区别
 
 > 一句话：ShareMoe（虾萌）不是 Pixiv，而是围绕 Pixiv 内容的第三方客户端。本篇用一张对照表讲清两者定位差异，并说明它与 Pixivic 网页版的关系、下载图片的分寸。
-> **相关文档**：[注册登录与食用码.md](注册登录与食用码.md) · [搜图与下载原图.md](搜图与下载原图.md) · [常见问题与使用注意.md](常见问题与使用注意.md)
+> **相关文档**：[注册登录与食用码.md](注册登录与食用码.md) · [搜图与下载原图.md](搜图与下载原图.md) · [常见问题与使用注意.md](常见问题与使用注意.md) · [版本更新与iOS版.md](版本更新与iOS版.md)
 
 ---
 
@@ -31,7 +31,9 @@ ShareMoe 不是 Pixiv，也不是 Pixiv 官方 App。它是围绕 Pixiv 等平�
 - 多个渠道把 [pixivic.com](https://pixivic.com/) 标注为 ShareMoe 的官网；
 - 官方反馈论坛（Pixivic 反馈）的公告里，网页版地址给出过 [pixivic.net](https://pixivic.net/) 与 [sharemoe.net](https://sharemoe.net/)（截至成文）。
 
-也就是说：手机上用 ShareMoe App，电脑上开网页版即可，两边内容同源。iPhone 用户截至成文没有 App Store 版（官方反馈帖里 iOS 上架长期是用户诉求），移动网页版 [m.pixivic.com](https://m.pixivic.com/) 是替代方案。
+也就是说：手机上用 ShareMoe App，电脑上开网页版即可，两边内容同源。不过官方在 2026 年 9 月的回复中明确表示「尽量使用 App，功能丰富很多，网页不维护了」——网页版仍能打开，但功能与修复会优先给 App。
+
+iPhone 端官方已在 App Store 上架（2026 年 8 月公告给出上架地址，详见 [版本更新与iOS版.md](版本更新与iOS版.md)）；移动网页版 [m.pixivic.com](https://m.pixivic.com/) 仍可作为不开 App 时的替代。
 
 以上地址可能随时间变动，以官方最新公告为准。
 
