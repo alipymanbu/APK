@@ -34,7 +34,8 @@ Forge 手动方式还需要先装 Forge 本体（把官方的 Forge installer �
 
 ## 四、整合包与特殊模组
 
-- **整合包**：Edelweiss 之后的版本可以直接在启动器内搜索 CurseForge / Modrinth 的整合包安装；手动方式则是把整合包文件导入对应目录。整合包体积大，先确认手机剩余空间。
+- **整合包**：Edelweiss 之后的版本可以直接在启动器内搜索 CurseForge / Modrinth 的整合包安装；手动导入时把包里的 mods、resourcepacks、config 对应放进游戏目录同名文件夹，CurseForge 包的实际文件多在 overrides 子目录里，解压后按同样方式摆放。整合包体积大，先确认手机剩余空间。
+- **模组服务器**：进装了 Forge/Fabric 的服务器，客户端要装同一加载器与同版本模组，漏装的表现是被踢出或进不去（联机步骤见 [服务器联机教程.md](服务器联机教程.md)）。
 - **ReplayMod（录像回放）**：需要给启动器额外装 FFmpeg 插件才能正常工作，Gladiolus 版本对此做了专门支持。
 - **光影/资源包**：资源包放进 `resourcepacks`，光影包配合 Iris 使用；光影对帧数影响极大，中端机从低配光影开始试。
 
