@@ -1,7 +1,7 @@
 # Power Shade 免费版与Pro区别
 
 > Power Shade 免费下载但部分设置项上锁；本篇列清哪些常用功能免费可用、哪些属于 Pro，付费是什么形式，以及广告与内购的口径。
-> **相关文档**：[通知栏颜色与布局设置.md](通知栏颜色与布局设置.md) · [权限开启与后台被杀处理.md](权限开启与后台被杀处理.md) · [与Material Notification Shade的区别.md](与Material Notification Shade的区别.md)
+> **相关文档**：[通知栏颜色与布局设置.md](通知栏颜色与布局设置.md) · [权限开启与后台被杀处理.md](权限开启与后台被杀处理.md) · [与Material Notification Shade的区别.md](与Material%20Notification%20Shade的区别.md)
 
 ---
 
